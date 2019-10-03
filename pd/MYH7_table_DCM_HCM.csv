@@ -1,0 +1,404 @@
+sample,Range,Domains,Position,AA1,AA2,Published,Published inc HGMD,HinCode,Conservation,Grantham Score,Hbonds,Buried charge,SProtFT,Interface,Clash,Proline,Impact,Binding,Voids,SurfacePhobic,Glycine,CisPro,CorePhilic,SSGeom,SAAPdb,N _strucures afeted,N_structures avaiable ,Evaluation_score,Damaging,SIFT,PolyPhen2,dbSNP132,Phenotype,phenotype_coding,Mean_age,Mean_MWT
+H1400.1,,,719,R,Q,1,1,P,H,,0,1,0,0,0,0,1,0,0,0,0,0,0,0,2,1,1,1.00,1,0,0.604,NA,HCM,,16,23
+H1291.1 ,,,723,R,C,1,1,P,H,180,0,1,0,1,0,0,1,0,0,0,0,0,0,0,3,1,1,1.00,2,0.17,1,NA,HCM,,33,23
+H1298.1 ,788-801,IQ1-motif-binds MYL3,797,A,T,1,1,P,H,58,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,1,1.00,0,0.14,0,rs3218716,HCM,,34,22
+H1496.1,814-827,IQ2motif-binds MYL2,822,M,L,1,1,P,H,15,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,1,1.00,0,0.52,0.073,NA,HCM,,62,22
+,,,4,S,L,1,1,,,,0,0,0,1,0,0,0,0,0,1,0,0,0,0,2,2,2,1.00,,,,,HCM,,,16
+H1453.1,34-75,N-terminus,17,R,H,0,0,L,H,29,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,1.00,3,0.03,0.986,NA,HCM,,42,16
+,34-75,N-terminus,26,A,V,1,1,P,,,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2,2,1.00,,,,,HCM,,41,12
+H1471.1,34-75,N-terminus,100,A,T,0,0,L,H,58,0,0,0,0,0,0,1,0,0,0,0,0,1,0,2,2,2,1.00,3,0,0.994,NA,HCM,,27,24
+,178-185,ATP,178,G,R,1,1,VL,H,125,0,1,1,0,1,0,1,0,0,0,1,0,1,0,6,2,2,1.00,,,,,LVNC,,33,
+,178-185,ATP,181,G,R,0,0,P,,,0,1,1,1,1,0,1,1,0,0,1,0,0,0,7,2,2,1.00,,,,,LVNC,,42,
+,,,185,T,S,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,35,26
+,196-212,hyperevariable helix I,201,I,T,1,1,P,H,89,0,0,0,1,0,0,1,0,0,0,0,0,0,0,2,2,2,1.00,1,0,,,DCM,,,
+,238-245,ATP-binding interruptor      1zone,239,D,N,1,1,P,,,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,2,2,1.00,,,,,HCM,,5,
+,,,247,F,L,1,1,P,,,,,,,,,,,,,,,,,,,,,,,,,,,35,19
+H1293.1 ,,,249,R,Q,1,1,P,H,43,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,2,2,1.00,3,0,0.999,rs3218713,HCM,,29,16
+,,,251,H,N,1,1,P,,68,0,1,0,0,0,0,1,0,0,0,0,0,0,0,2,2,2,1.00,0,0.1,,,HCM,,8,
+H1261.1 ,,,256,G,E,1,1,P,H,98,0,1,0,0,1,0,1,0,0,0,1,0,1,0,5,2,2,1.00,3,0,0.999,NA,HCM,,45,17
+,,,263,I,T,1,1,P,H,89,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,2,2,1.00,3,0,0.788,,HCM,,23,22
+,,,272,R,T,0,0,VL,H,71,0,1,0,0,0,0,1,0,0,0,0,0,0,0,2,2,2,1.00,3,0,1,,HCM,,,
+,,,281,R,T,1,1,P,H,71,1,1,0,0,0,0,1,0,0,0,0,0,0,0,3,2,2,1.00,3,0,0.999,,LVNC + ASD,,19,
+,,,325,D,G,0,0,P,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,1.00,,,,,HCM,,,
+,,,338,V,M,1,1,P,H,21,0,0,0,1,0,0,1,0,0,0,0,0,0,0,2,2,2,1.00,1,0,0.4,,HCM,,31,24
+H1370.1 ,,,351,K,E,1,1,P,H,56,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,2,2,1.00,3,0,0.908,NA,HCM,,30,23
+H1294.1 ,,,355,A,T,1,1,VL,H,58,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1,2,2,1.00,1,0.02,0.106,NA,HCM,,75,15
+H1620.1,,,355,A,T,1,1,VL,H,58,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1,2,2,1.00,1,0.02,0.106,NA,HCM,,34,19
+H1364.1 ,,,382,D,Y,1,1,VL,H,160,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,1.00,3,0,1,NA,HCM,,28,14
+,,,388,M,T,1,1,P,H,81,0,0,0,0,0,0,1,0,0,0,0,0,1,0,2,2,2,1.00,,,,,HCM,,46,19
+H1589.1,401-414,actin-binding,403,R,W,1,1,P,H,101,0,0,0,0,0,0,1,0,0,1,0,0,0,0,2,2,2,1.00,3,0,1,rs3218714,HCM,,41,17
+H1702.1,401-414,actin-binding,403,R,W,1,1,P,H,101,0,0,0,0,0,0,1,0,0,1,0,0,0,0,2,2,2,1.00,3,0,1,rs3218714,HCM,,41,17
+,401-414,actin-binding,403,R,Q,1,1,P,,,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,2,2,1.00,,,,,HCM,,22,20
+,,,403,R,L,1,1,L,,,,,,,,,,,,,,,,,,,,,,,,,,,26,20
+H1467.1,,,427,L,M,0,0,L,H,15,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,2,2,1.00,3,0.04,0.95,NA,HCM,,54,21
+H1417.1,,,427,L,M,0,0,L,H,15,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,2,2,1.00,3,0.04,0.95,NA,HCM,,54,21
+,,,442,R,H,1,1,P,,,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,2,2,1.00,,,,,DCM + endocardial fibroelastosis,,33,
+,,,444,N,S,1,1,P,H,46,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,2,1.00,3,0,0.998,,HCM,,54,17
+,,,453,R,C,1,1,P,H,180,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,2,1.00,,,,,HCM,,22,21
+H1333.1 ,,,478,I,N,0,0,L,H,149,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,2,2,1.00,3,0,1,NA,HCM,,49,20
+,479-512,relay-helix domain,484,K,N,0,0,VL,H,94,0,1,0,0,0,0,1,0,0,0,0,0,0,0,2,2,2,1.00,3,0,1,,HCM,,38,28
+,479-512,relay-helix domain,493,M,L,1,1,P,H,15,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,2,2,1.00,1,0,0.375,,HCM,,38,13
+,479-512,relay-helix domain,497,E,D,1,1,P,H,45,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,2,2,1.00,3,,,,HCM,,60,29
+,,,501,Y,H,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,525,E,K,0,0,L,H,56,1,0,0,0,0,0,1,0,0,0,0,0,0,0,2,2,2,1.00,3,0,0.798,,DCM+LVNC,,1,
+,527-556,actin-binding,528,M,I,0,0,VL,H,10,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,2,2,1.00,,0,,,LVNC,,12,
+,527-556,actin-binding,540,F,L,0,0,L,H,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,1.00,3,0,0.988,,LVNC,,16,
+,527-556,actin-binding,542,K,R,0,0,VL,H,26,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,1.00,3,0,0.977,,HCM,,60,16
+,527-556,actin-binding,550,A,V,1,1,VL,H,64,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,2,2,1.00,1,0,0.032,,DCM,,40,
+,,,584,G,R,1,1,P,,,,,,,,,,,,,,,,,,,,,,,,,,,29,15
+,,,587,D,H,0,0,VL,H,81,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,2,2,1.00,3,0,0.998,,HCM,,,
+,,,601,L,V,1,1,VL,H,32,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,1.00,3,0,0.964,,HCM,,7,14
+,,,602,N,S,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,19,23
+H1660.1,,,606,V,M,1,1,P,H,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,1.00,3,0,0.854,rs121913627,HCM,,27,20
+H1667.1,614-638,hypervariable helix II,624,Y,N,1,1,P,H,143,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,1.00,0,0.05,0.462,NA,HCM,,38,18
+,624-657,actin-binding,652,R,K,1,1,VL,H,26,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,1.00,1,0,0.182,,HCM,,47,
+H1318.1 ,655-677,actin-binding,663,R,H,1,1,P,H,29,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,1.00,2,0.08,0.832,NA,HCM,,42,22
+H1334.1,655-677,actin-binding,663,R,H,1,1,P,H,29,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,1.00,2,0.08,0.832,NA,HCM,,42,22
+H1481.1,655-677,actin-binding,663,R,H,1,1,P,H,29,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,1.00,2,0.08,0.832,NA,HCM,,42,22
+,655-677,actin-binding,663,R,C,1,1,P,H,180,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,1.00,3,0,0.883,,HCM,,,
+,655-677,actin-binding,671,R,C,1,1,VL,,180,1,1,0,0,0,0,0,0,0,0,0,0,0,0,2,2,2,1.00,3,0,1,,HCM,,,
+,,,694,R,H,1,1,P,H,29,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,2,2,1.00,3,0,1,,HCM,,,
+,,,710,P,R,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,7,21
+,,,721,R,K,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,RCM,,23,
+,,,728,A,V,1,1,P,,,,,,,,,,,,,,,,,,,,,,,,,,,35,17
+,,,738,R,H,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,757-771,actin-binding,768,G,R,1,1,P,H,125,0,0,0,0,0,0,1,0,0,0,1,0,0,0,2,2,2,1.00,3,0,0.996,,HCM,,23,20
+,757-771,actin-binding,771,G,A,0,0,P,H,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,1.00,,,,,HCM,,,
+,839-964,MYBPC3 binding,847,K,E,1,1,VL,H,56,0,0,0,1,0,0,1,0,0,0,0,0,0,0,2,2,7,1.00,,0,,,HCM,,,
+H1453.1,839-964,MYBPC3 binding,928,D,G,0,0,VL,H,94,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,2,8,0.29,3,0,0.637,NA,HCM,,42,16
+,839-964,MYBPC3 binding,928,D,N,1,1,VL,H,23,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,2,8,0.25,1,0.02,0.491,,HCM,,30,23
+,839-964,MYBPC3 binding,949,E,K,1,1,VL,,,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,2,8,0.25,,,,,HCM,,,
+H1274.1 ,839-964,MYBPC3 binding,906,D,G,1,1,L,H,94,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,6,6,0.25,1,0.01,0.266,NA,HCM,,39,16
+H1375.1 ,839-964,MYBPC3 binding,906,D,G,1,1,L,H,94,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,6,6,1.00,1,0.01,0.266,NA,HCM,,39,16
+,839-964,MYBPC3 binding,845,R,K,0,0,L,L,26,0,0,0,1,0,0,0,1,0,0,0,0,0,0,2,6,7,1.00,0,0.28,0,,HCM,,,
+,839-964,MYBPC3 binding,852,M,T,1,1,VL,H,81,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,8,8,0.86,3,0.04,0.948,,HCM,,,
+,839-964,MYBPC3 binding,869,R,H,1,1,P,H,29,0,0,0,1,0,0,1,1,0,0,0,0,0,0,3,8,8,1.00,3,0,1,,HCM,,21,28
+H1610.1,839-964,MYBPC3 binding,870,R,H,1,1,P,H,29,0,0,0,1,0,0,0,1,0,0,0,0,0,0,2,8,8,1.00,3,0,0.928,rs36211715,HCM,,33,19
+H1378.1,839-964,MYBPC3 binding,890,Q,P,0,0,L,H,76,0,0,0,1,1,0,0,0,0,0,0,0,0,0,2,8,8,1.00,3,0,0.953,NA,HCM,,49,17
+H1314.1 ,839-964,MYBPC3 binding,894,E,G,1,1,VL,H,98,1,1,0,1,0,0,0,1,0,0,0,0,0,0,3,8,8,1.00,1,0.04,0.002,NA,HCM,,18,28
+,839-964,MYBPC3 binding,901,A,P,1,1,P,H,,0,0,0,1,1,0,0,0,0,0,0,0,0,0,2,8,8,1.00,,,,,HCM,,29,27
+,839-964,MYBPC3 binding,904,R,H,1,1,VL,H,29,0,0,0,1,0,0,1,0,0,0,0,0,0,0,2,8,8,1.00,,0,,,DCM,,4,
+,839-964,MYBPC3 binding,908,L,V,1,1,P,H,32,0,0,0,1,0,0,1,0,0,0,0,0,0,0,2,8,8,1.00,,,,,HCM+myopathy central core,,38,21
+,839-964,MYBPC3 binding,924,E,K,1,1,P,H,56,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,8,1.00,3,0,0.995,,HCM,,26,23
+,839-964,MYBPC3 binding,927,E,K,1,1,P,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,8,1.00,,,,,HCM,,,29
+H1431.1,839-964,MYBPC3 binding,931,E,G,0,0,L,H,98,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,8,1.00,3,0.05,0.894,NA,HCM,,37,18
+H1672.1,839-964,MYBPC3 binding,949,E,V,0,0,,H,121,1,0,0,0,0,0,1,0,0,1,0,0,0,0,3,8,8,1.00,3,0,0.999,NA,HCM,,43,20
+,,,716,G,R,1,1,P,H,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,,,,,HCM/DCM/LVNC,,22,21
+,,,719,R,W,1,1,P,H,101,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,3,0,0.836,,HCM,,18,24
+,,,730,I,N,0,0,VL,H,149,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,,,0.028,,HCM,,30,28
+,,,736,I,M,1,1,P,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,,,,,HCM,,46,13
+,,,736,I,T,1,1,P,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,,,,,HCM/DCM,,44,22
+H1633.1,,,741,G,R,1,1,P,H,125,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,1,0,0.145,rs121913632,HCM,,35,17
+,,,741,G,W,1,1,P,,,,,,,,,,,,,,,,,,,,,,,,,,,33,19
+H1657.1,,,783,R,H,1,1,,H,10,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,1,0.03,0,NA,HCM,,44,16
+,,,787,R,H,1,1,P,H,29,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,1,0,0.336,,DCM/HCM,,36,20
+,814-827,IQ2 motif - binds MYL2,814,I,S,0,0,VL,H,142,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,3,0,0.816,,HCM,,55,
+,,,869,R,C,1,1,P,,,,,,,,,,,,,,,,,,,,,,,,,,,22,22
+,839-964,MYBPC3 binding,903,E,K,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,14
+,839-964,MYBPC3 binding,909,I,M,1,1,P,,,,,,,,,,,,,,,,,,,,,,,,,,,31,17
+H1365.1 ,,,982,M,T,1,1,VL,H,81,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,3,0,0.909,NA,HCM/DCM/LVNC,,41,22
+,,,1019,T,N,1,1,P,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,,,,,DCM/HCM,,53,20
+,,,1042,K,N,0,0,L,H,94,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,3,,,,HCM,,,
+,,,1044,V,L,0,0,L,M,32,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,0,0.05,0,,HCM,,65,
+,,,1045,R,H,1,1,L,H,29,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,3,0,0.999,,HCM,,13,25
+,,,1067,M,T,0,0,VL,H,81,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,3,0,0.948,,HCM,,28,
+,,,1079,R,Q,1,1,VL,H,43,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,1,0,0.314,,HCM,,,18
+,,,1101,G,S,0,0,P,H,56,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,0,0.21,0.001,,HCM,,,
+,1125-1217,hinge functional domain,1128,A,T,0,0,P,H,58,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,1,0.02,0.009,,LVNC,,42,14
+,1125-1217,hinge functional domain,1169,A,S,0,0,P,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,,,,,HCM,,,
+,1125-1217,hinge functional domain,1193,R,C,0,0,VL,H,180,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,,0,,,DCM,,3,
+,1125-1217,hinge functional domain,1193,R,S,1,1,P,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,,,,,DCM,,44,
+,1125-1217,hinge functional domain,1205,E,K,1,1,P,H,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,3,0,,,HCM,,38,
+H1477.1,1125-1217,hinge functional domain,1208,D,N,0,0,L,H,23,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,3,0,0.995,NA,HCM,,54,19
+,1217-1935,tail region (LMM),1327,N,K,1,1,VL,H,94,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,1,0,0.624,,HCM,,34,18
+,1217-1935,tail region (LMM),1352,E,Q,0,0,VL,H,142,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,3,0,0.999,,HCM,,,
+H1595.1,1217-1935,tail region (LMM),1356,E,K,1,1,P,H,56,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,3,0,0.809,NA,HCM,,31,17
+,1217-1935,tail region (LMM),1377,T,M,1,1,P,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,,,,,HCM,,44,19
+,1217-1935,tail region (LMM),1378,D,H,0,0,P,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,,,,,HCM,,,
+,1217-1935,tail region (LMM),1382,R,Q,0,0,VL,H,43,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,3,0,0.999,,HCM,,,
+,1217-1935,tail region (LMM),1474,A,D,0,0,VL,H,126,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,3,0,0.861,,HCM,,,
+,1217-1935,tail region (LMM),1490,E,K,0,0,VL,H,56,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,3,0,0.999,,HCM,,40,
+,1217-1935,tail region (LMM),1500,R,W,1,1,P,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,,,,,DCM/LVNC,,,
+,1503-1671,junction region miomesin,1555,E,G,0,0,VL,H,98,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,3,0,0.995,,HCM,,37,16
+,1503-1671,junction region miomesin,1652,D,Y,1,1,P,H,160,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,3,0,0.948,,HCM/RCM/DCM,,14,20
+,1217-1935,tail region (LMM),1677,R,C,1,1,L,H,180,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,3,0,0.998,,LVNC,,,
+,1217-1935,tail region (LMM),1712,R,Q,1,1,P,H,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,,,,,HCM,,19,
+,1217-1935,tail region (LMM),1712,R,W,1,1,VL,H,101,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,,,1,,HCM,,39,23
+,1217-1935,tail region (LMM),1751,A,D,0,0,L,H,126,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,3,0,1,,HCM,,23,22
+,1217-1935,tail region (LMM),1760,T,M,1,1,P,H,81,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,3,0,0.917,,HCM,,57,18
+,1217-1935,tail region (LMM),1764,M,K,0,0,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,,,,,HCM,,37,16
+H1401.1 ,1217-1935,tail region (LMM),1781,R,H,1,1,L,H,29,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,3,0,1,NA,HCM,,53,20
+,1217-1935,tail region (LMM),1801,E,K,1,1,VL,H,56,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,,,0.992,,DCM/LVNC,,1,
+,1217-1935,tail region (LMM),1838,K,R,0,0,VL,H,26,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,3,0,0.992,,HCM,,33,21
+,1217-1935,tail region (LMM),1927,I,F,1,1,P,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,,,,,HCM/LVNC,,61,24
+,1217-1935,tail region (LMM),1931,G,C,0,0,L,H,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,,0.11,,,HCM,,,
+,1217-1935,tail region (LMM),1481,L,P,0,0,P,H,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,3,0,,,Miopatia distal de Laing,,51,
+,1-780,myosin head,13,A,T,1,,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,,,,,,HCM,,,
+,1-780,myosin head,39,V,M,1,,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,,,,,,HCM,,,
+,1-780,myosin head,59,V,I,1,,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,,,,,,HCM,,,
+,1-780,myosin head,81,P,S,1,,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,,,,,,DCM,,,
+,1-780,myosin head,115,Y,H,1,,,,,0,1,0,0,0,0,1,0,0,0,0,0,1,0,3,2,2,,,,,,HCM,,,
+,1-780,myosin head,124,T,I,1,,,,,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,2,2,,,,,,HCM,,,
+,1-780,myosin head,142,Y,H,1,,,,,1,1,0,0,0,0,0,0,0,0,0,0,1,0,3,2,2,,,,,,DCM,,,
+,1-780,myosin head,143,R,Q,1,,,,,0,1,0,1,0,0,1,1,0,0,0,0,0,0,4,2,2,,,,,,HCM,,,
+,1-780,myosin head,143,R,G,1,,,,,1,1,0,1,0,0,1,1,0,0,0,0,0,0,5,2,2,,,,,,HCM,,,
+,1-780,myosin head,143,R,W,1,,,,,1,1,0,1,0,0,1,1,0,1,0,0,0,0,6,2,2,,,,,,HCM,,,
+,1-780,myosin head,146,K,N,1,,,,,0,0,0,1,0,0,1,0,0,0,0,0,0,0,2,2,2,,,,,,HCM,,,
+,1-780,myosin head,148,S,I,1,,,,,0,0,0,0,0,0,1,0,0,1,0,0,0,0,2,2,2,,,,,,HCM,,,
+,1-780,myosin head,162,Y,C,1,,,,,1,0,0,0,0,0,1,0,0,0,0,0,0,0,2,2,2,,,,,,HCM,,,
+,1-780,myosin head,162,Y,H,1,,,,,1,1,0,0,0,0,1,0,0,0,0,0,1,0,4,2,2,,,,,,HCM,,,
+,1-780,myosin head,177,T,I,1,,,,,1,0,0,0,0,0,1,0,0,0,0,0,0,0,2,2,2,,,,,,HCM,,,
+,1-780,myosin head,186,V,L,1,,,,,0,0,0,1,0,0,0,1,0,0,0,0,0,0,2,2,2,,,,,,HCM,,,
+,1-780,myosin head,187,N,K,1,,,,,0,1,0,0,0,0,1,0,0,0,0,0,0,0,2,2,2,,,,,,HCM,,,
+,1-780,myosin head,188,T,N,1,,,,,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,2,2,,,,,,HCM,,,
+,1-780,myosin head,190,R,T,1,,,,,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,2,2,,,,,,HCM,,,
+,1-780,myosin head,194,Y,S,1,,,,,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,2,2,,,,,,HCM,,,
+,1-780,myosin head,196,A,T,1,,,,,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,2,2,,,,,,HCM,,,
+,1-780,myosin head,204,R,H,1,,,,,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,2,2,,,,,,HCM,,,
+,1-780,myosin head,207,K,Q,1,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,,,,HCM,,,
+,1-780,myosin head,211,P,L,1,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,,,,HCM,,,
+,1-780,myosin head,214,G,D,1,,,,,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,2,2,,,,,,HCM,,,
+,1-780,myosin head,216,L,V,1,,,,,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,2,2,,,,,,HCM,,,
+,1-780,myosin head,219,Q,E,1,,,,,1,1,0,0,0,0,1,0,0,0,0,0,0,0,3,2,2,,,,,,HCM,,,
+,1-780,myosin head,219,Q,L,1,,,,,1,0,0,0,0,0,1,0,0,0,0,0,0,0,2,2,2,,,,,,HCM,,,
+,1-780,myosin head,222,Q,K,1,,,,,0,1,0,1,0,0,1,0,0,0,0,0,0,0,3,2,2,,,,,,HCM,,,
+,1-780,myosin head,223,A,T,1,,,,,0,0,0,0,0,0,1,0,0,0,0,0,1,0,2,2,2,,,,,,DCM,,,
+,1-780,myosin head,227,L,V,1,,,,,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,2,2,,,,,,HCM,,,
+,1-780,myosin head,232,N,S,1,,,,,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,2,2,,,,,,HCM,,,
+,1-780,myosin head,233,A,S,1,,,,,0,0,0,0,0,0,1,0,0,0,0,0,1,0,2,2,2,,,,,,HCM,,,
+,1-780,myosin head,237,R,W,1,,,,,0,0,0,0,0,0,1,0,0,1,0,0,0,0,2,2,2,,,,,,DCM,,,
+,1-780,myosin head,243,R,C,1,,,,,1,0,0,0,0,0,1,0,0,0,0,0,0,0,2,2,2,,,,,,HCM,,,
+,1-780,myosin head,243,R,H,1,,,,,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,2,2,,,,,,HCM,,,
+,1-780,myosin head,244,F,L,1,,,,,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,2,2,,,,,,HCM,,,
+,1-780,myosin head,246,K,Q,1,,,,,0,1,0,0,0,0,1,0,0,0,0,0,0,0,2,2,2,,,,,,HCM,,,
+,1-780,myosin head,252,F,L,1,,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,,,,,,LVNC,,,
+,1-780,myosin head,259,A,E,1,,,,,0,1,0,0,0,0,1,0,0,0,0,0,1,0,3,2,2,,,,,,HCM,,,
+,1-780,myosin head,266,Y,C,1,,,,,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,2,2,,,,,,HCM,,,
+,1-780,myosin head,270,K,R,1,,,,,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,2,2,,,,,,HCM,,,
+,1-780,myosin head,283,Y,D,1,,,,,1,1,0,0,0,0,1,0,0,0,0,0,1,0,4,2,2,,,,,,Ebstein,,,
+,1-780,myosin head,291,S,F,1,,,,,1,0,0,0,1,0,0,0,0,1,0,0,0,0,3,2,2,,,,,,HCM,,,
+,1-780,myosin head,301,L,Q,1,,,,,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,2,2,,,,,,HCM,,,
+,1-780,myosin head,312,F,C,1,,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,,,,,,HCM,,,
+,1-780,myosin head,320,V,M,1,,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,,,,,,HCM,,,
+,1-780,myosin head,322,S,F,1,,,,,1,0,0,0,0,0,1,0,0,1,0,0,0,0,3,2,2,,,,,,HCM,,,
+,1-780,myosin head,326,A,P,1,,,,,0,0,0,0,1,0,1,0,0,0,0,0,0,0,2,2,2,,,,,,HCM,,,
+,1-780,myosin head,328,E,G,1,,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,,,,,,HCM,,,
+,1-780,myosin head,349,M,T,1,,,,,0,0,0,0,0,0,1,0,0,0,0,0,1,0,2,2,2,,,,,,HCM,,,
+,1-780,myosin head,350,Y,N,1,,,,,1,0,0,0,0,0,1,0,0,0,0,0,1,0,3,2,2,,,,,,Ebstein,,,
+,1-780,myosin head,369,R,Q,1,,,,,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,2,2,,,,,,LVNC,,,
+,1-780,myosin head,377,G,R,1,,,,,0,0,0,0,0,0,1,0,0,0,1,0,0,0,2,2,2,,,,,,DCM,,,
+,1-780,myosin head,377,G,S,1,,,,,0,0,0,0,0,0,1,0,0,0,1,0,0,0,2,2,2,,,,,,DCM,,,
+,1-780,myosin head,383,K,N,1,,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,,,,,,HCM,,,
+,1-780,myosin head,385,A,V,1,,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,,,,,,HCM,,,
+,1-780,myosin head,386,Y,H,1,,,,,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,2,2,,,,,,HCM,,,
+,1-780,myosin head,390,L,P,1,,,,,0,0,0,0,1,1,0,0,0,0,0,0,0,0,2,2,2,,,,,,Ebstein,,,
+,1-780,myosin head,390,L,V,1,,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,,,,,,HCM,,,
+,1-780,myosin head,398,G,E,1,,,,,0,1,0,0,1,0,1,0,0,0,0,0,1,0,4,2,2,,,,,,HCM,,,
+,1-780,myosin head,404,V,L,1,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,,,,HCM,,,
+,1-780,myosin head,404,V,M,1,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,,,,HCM,,,
+,1-780,myosin head,406,V,M,1,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,,,,HCM,,,
+,1-780,myosin head,407,G,V,1,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,,,,HCM,,,
+,1-780,myosin head,411,V,I,1,,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,,,,,,HCM,,,
+,1-780,myosin head,412,T,N,1,,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,,,,,,DCM,,,
+,1-780,myosin head,425,G,R,1,,,,,0,1,0,0,0,0,1,0,0,0,0,0,1,0,3,2,2,,,,,,HCM,,,
+,1-780,myosin head,428,A,V,1,,,,,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,2,2,,,,,,HCM,,,
+,1-780,myosin head,430,A,E,1,,,,,0,1,0,0,0,0,1,0,0,0,0,0,1,0,3,2,2,,,,,,HCM,,,
+,1-780,myosin head,435,M,T,1,,,,,0,0,0,0,0,0,1,0,0,0,0,0,1,0,2,2,2,,,,,,HCM,,,
+,1-780,myosin head,440,V,M,1,,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,,,,,,HCM,,,
+,1-780,myosin head,441,T,M,1,,,,,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,2,2,,,,,,cardiomyopathy and distal myopathy,,,
+,1-780,myosin head,442,R,C,1,,,,,1,0,0,0,0,0,1,0,0,0,0,0,0,0,2,2,2,,,,,,HCM,,,
+,1-780,myosin head,443,I,T,1,,,,,0,0,0,0,0,0,1,0,0,0,0,0,1,0,2,2,2,,,,,,HCM,,,
+,1-780,myosin head,450,K,E,1,,,,,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,2,2,,,,,,HCM,,,
+,1-780,myosin head,450,K,T,1,,,,,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,2,2,,,,,,HCM,,,
+,1-780,myosin head,453,R,H,1,,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,,,,,,HCM,,,
+,1-780,myosin head,453,R,L,1,,,,,1,0,0,0,0,0,0,0,0,1,0,0,0,0,2,2,2,,,,,,HCM,,,
+,1-780,myosin head,453,R,S,1,,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,,,,,,HCM,,,
+,1-780,myosin head,457,I,T,1,,,,,0,0,0,0,0,0,1,0,0,0,0,0,1,0,2,2,2,,,,,,HCM,,,
+,1-780,myosin head,467,I,T,1,,,,,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,2,2,,,,,,HCM,,,
+,1-780,myosin head,475,Q,H,1,,,,,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,2,2,,,,,,DCM,,,
+,1-780,myosin head,475,Q,K,1,,,,,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,2,2,,,,,,DCM,,,
+,1-780,myosin head,479,N,S,1,,,,,1,0,0,0,0,0,1,0,0,0,0,0,0,0,2,2,2,,,,,,HCM,,,
+,1-780,myosin head,483,E,K,1,,,,,1,1,0,0,0,0,1,0,0,0,0,0,0,0,3,2,2,,,,,,HCM,,,
+,1-780,myosin head,489,F,I,1,,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,,,,,,DCM,,,
+,1-780,myosin head,499,E,K,1,,,,,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,2,2,,,,,,HCM,,,
+,1-780,myosin head,500,E,A,1,,,,,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,2,2,,,,,,HCM,,,
+,1-780,myosin head,501,Y,C,1,,,,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,2,,,,,,HCM,,,
+,1-780,myosin head,511,I,F,1,,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,,,,,,HCM,,,
+,1-780,myosin head,511,I,T,1,,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,,,,,,HCM,,,
+,1-780,myosin head,513,F,C,1,,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,,,,,,HCM,,,
+,1-780,myosin head,515,M,R,1,,,,,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,2,2,,,,,,HCM,,,
+,1-780,myosin head,515,M,T,1,,,,,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,2,2,,,,,,HCM,,,
+,1-780,myosin head,516,D,E,1,,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,,,,,,HCM,,,
+,1-780,myosin head,517,L,M,1,,,,,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,2,2,,,,,,HCM,,,
+,1-780,myosin head,529,G,D,1,,,,,0,1,0,0,1,0,1,0,0,0,0,0,1,0,4,2,2,,,,,,DCM,,,
+,1-780,myosin head,531,M,R,1,,,,,0,1,0,0,0,0,1,0,0,0,0,0,1,0,3,2,2,,,,,,HCM,,,
+,1-780,myosin head,532,S,P,1,,,,,1,0,0,0,1,0,1,0,0,0,0,0,0,0,3,2,2,,,,,,DCM,,,
+,1-780,myosin head,539,M,L,1,,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,,,,,,HCM,,,
+,1-780,myosin head,543,A,T,1,,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,,,,,,DCM,,,
+,1-780,myosin head,545,D,N,1,,,,,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,2,2,,,,,,LVNC,,,
+,1-780,myosin head,561,A,T,1,,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,,,,,,HCM,,,
+,1-780,myosin head,564,Q,E,1,,,,,1,0,0,0,0,0,1,0,0,0,0,0,0,0,2,2,2,,,,,,DCM,,,
+,1-780,myosin head,576,H,R,1,,,,,1,0,0,0,0,0,1,0,0,0,0,0,0,0,2,2,2,,,,,,HCM,,,
+,1-780,myosin head,583,A,V,1,,,,,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,2,2,,,,,,HCM,,,
+,1-780,myosin head,584,G,S,1,,,,,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,2,2,,,,,,HCM,,,
+,1-780,myosin head,587,D,V,1,,,,,1,0,0,0,0,0,1,0,0,1,0,0,0,0,3,2,2,,,,,,HCM,,,
+,1-780,myosin head,591,I,T,1,,,,,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,2,2,,,,,,DCM,,,
+,1-780,myosin head,601,L,F,1,,,,,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,2,,,,,,HCM,,,
+,1-780,myosin head,609,Y,C,1,,,,,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,2,2,,,,,,HCM,,,
+,1-780,myosin head,615,K,N,1,,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,,,,,,HCM,,,
+,1-780,myosin head,615,K,Q,1,,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,,,,,,HCM,,,
+,1-780,myosin head,637,K,E,1,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,,,,DCM,,,
+,1-780,myosin head,642,S,L,1,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,,,,DCM,,,
+,1-780,myosin head,652,R,G,1,,,,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2,,,,,,HCM,,,
+,1-780,myosin head,658,L,V,1,,,,,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,2,2,,,,,,LVNC,,,
+,1-780,myosin head,659,M,I,1,,,,,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,2,2,,,,,,HCM,,,
+,1-780,myosin head,663,R,S,1,,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,,,,,,HCM,,,
+,1-780,myosin head,694,R,C,1,,,,,1,0,0,0,0,0,1,0,0,0,0,0,0,0,2,2,2,,,,,,HCM,,,
+,1-780,myosin head,694,R,L,1,,,,,1,0,0,0,0,0,1,0,0,1,0,0,0,0,3,2,2,,,,,,HCM,,,
+,1-780,myosin head,695,N,S,1,,,,,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,2,2,,,,,,HCM,,,
+,1-780,myosin head,698,V,A,1,,,,,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,2,2,,,,,,HCM,,,
+,1-780,myosin head,705,C,W,1,,,,,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,2,2,,,,,,HCM,,,
+,1-780,myosin head,712,R,L,1,,,,,1,0,0,0,0,0,0,0,0,1,0,0,0,0,2,2,2,,,,,,HCM,,,
+,1-780,myosin head,719,R,P,1,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,,,,HCM,,,
+,1-780,myosin head,723,R,G,1,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,,,,HCM,,,
+,1-780,myosin head,723,R,H,1,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,,,,HCM,,,
+,1-780,myosin head,729,A,P,1,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,,,,HCM,,,
+,1-780,myosin head,731,P,L,1,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,,,,HCM,,,
+,1-780,myosin head,733,G,R,1,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,,,,HCM,,,
+,1-780,myosin head,733,G,E,1,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,,,,HCM,,,
+,1-780,myosin head,734,Q,E,1,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,,,,HCM,,,
+,1-780,myosin head,734,Q,P,1,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,,,,HCM,,,
+,1-780,myosin head,736,I,L,1,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,,,,HCM,,,
+,1-780,myosin head,741,G,A,1,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,,,,HCM,,,
+,1-780,myosin head,742,A,E,1,,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,,,,,,HCM,,,
+,1-780,myosin head,743,E,D,1,,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,,,,,,HCM,,,
+,1-780,myosin head,763,V,G,1,,,,,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2,2,,,,,,HCM,,,
+,1-780,myosin head,763,V,M,1,,,,,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2,2,,,,,,HCM,,,
+,1-780,myosin head,764,F,L,1,,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,,,,,,DCM,,,
+,1-780,myosin head,774,E,V,1,,,,,0,0,0,0,0,0,1,0,0,1,0,0,0,0,2,2,2,,,,,,HCM,,,
+,1-780,myosin head,778,D,E,1,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,,,,HCM,,,
+,1-780,myosin head,778,D,G,1,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,,,,HCM,,,
+,1-780,myosin head,778,D,V,1,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,,,,HCM,,,
+,1-780,myosin head,779,E,D,1,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,,,,HCM,,,
+,1-780,myosin head,782,S,R,1,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,,,,HCM,,,
+,1-780,myosin head,782,S,N,1,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,,,,HCM,,,
+,1-780,myosin head,783,R,P,1,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,,,,cardiomyopathy and distal myopathy,,,
+,1-780,myosin head,787,R,C,1,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,,,,HCM,,,
+,1-780,myosin head,793,R,Q,1,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,,,,HCM,,,
+,1-780,myosin head,796,L,F,1,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,,,,HCM,,,
+,1-780,myosin head,797,A,P,1,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,,,,HCM,,,
+,1-780,myosin head,818,I,N,1,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,,,,LVNC,,,
+,1-780,myosin head,822,M,T,1,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,,,,HCM,,,
+,1-780,myosin head,822,M,V,1,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,,,,HCM,,,
+,1-780,myosin head,823,G,E,1,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,,,,HCM,,,
+,1-780,myosin head,824,V,I,1,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,,,,HCM,,,
+,1-780,myosin head,835,K,T,1,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,,,,HCM,,,
+,1-780,myosin head,838,P,L,1,,,,,0,0,0,0,0,0,0,0,0,1,0,1,0,0,2,5,5,,,,,,HCM,,,
+,1-780,myosin head,844,E,K,1,,,,,1,0,0,1,0,0,1,1,0,0,0,0,0,0,4,2,7,,,,,,HCM,,,
+,1-780,myosin head,845,R,G,1,,,,,1,0,0,1,0,0,0,1,0,0,0,0,0,0,3,6,7,,,,,,HCM,,,
+,1-780,myosin head,846,E,Q,1,,,,,0,0,0,1,0,0,1,1,0,0,0,0,0,0,3,6,7,,,,,,HCM,,,
+,1-780,myosin head,846,E,K,1,,,,,1,0,0,1,0,0,1,1,0,0,0,0,0,0,4,6,7,,,,,,HCM,,,
+,1-780,myosin head,849,M,T,1,,,,,0,0,0,1,0,0,1,0,0,0,0,0,0,0,2,6,7,,,,,,HCM,,,
+,1-780,myosin head,850,A,D,1,,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,8,,,,,,HCM,,,
+,1-780,myosin head,850,A,T,1,,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,8,,,,,,HCM,,,
+,1-780,myosin head,858,R,C,1,,,,,1,0,0,0,0,0,1,0,0,0,0,0,0,0,2,2,8,,,,,,HCM,,,
+,1-780,myosin head,858,R,H,1,,,,,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,2,8,,,,,,HCM,,,
+,1-780,myosin head,858,R,P,1,,,,,1,0,0,0,1,1,1,0,0,0,0,0,0,0,4,8,8,,,,,,HCM,,,
+,1-780,myosin head,865,K,R,1,,,,,0,0,0,1,0,0,0,1,0,0,0,0,0,0,2,2,8,,,,,,HCM,,,
+,1-780,myosin head,866,S,Y,1,,,,,0,0,0,1,0,0,1,1,0,0,0,0,0,0,3,8,8,,,,,,HCM,,,
+,1-780,myosin head,868,A,P,1,,,,,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,6,8,,,,,,HCM,,,
+,1-780,myosin head,869,R,G,1,,,,,1,0,0,1,0,0,1,1,0,0,0,0,0,0,4,8,8,,,,,,HCM,,,
+,1-780,myosin head,870,R,C,1,,,,,1,1,0,1,0,0,0,1,0,0,0,0,0,0,4,8,8,,,,,,HCM,,,
+,1-780,myosin head,877,M,K,1,,,,,0,1,0,1,0,0,1,0,0,0,0,0,0,0,3,8,8,,,,,,HCM,,,
+,1-780,myosin head,878,V,A,1,,,,,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,8,,,,,,HCM,,,
+,1-780,myosin head,878,V,G,1,,,,,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,8,,,,,,HCM,,,
+,1-780,myosin head,882,Q,E,1,,,,,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,8,,,,,,HCM,,,
+,1-780,myosin head,889,L,H,1,,,,,0,0,0,1,0,0,1,0,0,0,0,0,0,0,2,2,8,,,,,,HCM,,,
+,1-780,myosin head,901,A,G,1,,,,,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,8,8,,,,,,HCM,,,
+,1-780,myosin head,903,E,G,1,,,,,1,0,0,1,0,0,1,1,0,0,0,0,0,0,4,6,8,,,,,,HCM,,,
+,1-780,myosin head,903,E,K,1,,,,,1,0,0,1,0,0,1,1,0,0,0,0,0,0,4,6,8,,,,,,HCM,,,
+,1-780,myosin head,904,R,C,1,,,,,0,0,0,1,0,0,1,0,0,0,0,0,0,0,2,8,8,,,,,,DCM,,,
+,1-780,myosin head,905,C,F,1,,,,,0,0,0,1,0,0,0,1,0,0,0,0,0,0,2,8,8,,,,,,HCM,,,
+,1-780,myosin head,910,K,Q,1,,,,,0,0,0,1,0,0,1,0,0,0,0,0,0,0,2,2,8,,,,,,DCM,,,
+,1-780,myosin head,921,E,K,1,,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,8,,,,,,HCM,,,
+,1-780,myosin head,924,E,Q,1,,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,8,,,,,,HCM,,,
+,1-780,myosin head,927,W,C,1,,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,8,,,,,,HCM,,,
+,1-780,myosin head,928,D,V,1,,,,,0,0,0,0,0,0,1,0,0,1,0,0,0,0,2,8,8,,,,,,HCM,,,
+,1-780,myosin head,930,E,Q,1,,,,,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,7,8,,,,,,HCM,,,
+,1-780,myosin head,930,E,K,1,,,,,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,7,8,,,,,,HCM,,,
+,1-780,myosin head,932,M,K,1,,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,8,,,,,,HCM,,,
+,1-780,myosin head,935,E,K,1,,,,,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,2,8,,,,,,HCM,,,
+,1-780,myosin head,953,D,H,1,,,,,0,0,0,1,0,0,1,0,0,0,0,0,0,0,2,4,8,,,,,,HCM,,,
+,1-780,myosin head,955,D,N,1,,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,8,,,,,,LVNC,,,
+,1-780,myosin head,961,L,R,1,,,,,0,0,0,1,0,0,1,0,0,0,0,0,0,0,2,8,8,,,,,,HCM,,,
+,1-780,myosin head,964,V,L,1,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,,,DCM,,,
+,1-780,myosin head,965,E,K,1,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,,,HCM,,,
+,1-780,myosin head,970,A,V,1,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,,,DCM,,,
+,1-780,myosin head,1027,L,P,1,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,,,DCM,,,
+,1-780,myosin head,1038,L,P,1,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,,,DCM,,,
+,1-780,myosin head,1044,V,A,1,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,,,HCM,,,
+,1-780,myosin head,1045,R,C,1,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,,,HCM,,,
+,1-780,myosin head,1053,R,Q,1,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,,,DCM,,,
+,1-780,myosin head,1057,G,D,1,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,,,HCM,,,
+,1-780,myosin head,1057,G,S,1,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,,,HCM,,,
+,1-780,myosin head,1069,D,Y,1,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,,,HCM,,,
+,1-780,myosin head,1116,E,K,1,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,,,HCM,,,
+,1-780,myosin head,1135,L,R,1,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,,,HCM,,,
+,1-780,myosin head,1218,E,Q,1,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,,,HCM,,,
+,1-780,myosin head,1223,E,Q,1,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,,,DCM,,,
+,1-780,myosin head,1250,R,W,1,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,,,LVNC,,,
+,1-780,myosin head,1263,A,E,1,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,,,HCM,,,
+,1-780,myosin head,1332,A,T,1,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,,,DCM,,,
+,1-780,myosin head,1351,T,M,1,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,,,HCM,,,
+,1-780,myosin head,1359,R,C,1,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,,,LVNC,,,
+,1-780,myosin head,1379,A,T,1,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,,,HCM,,,
+,1-780,myosin head,1382,R,W,1,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,,,HCM,,,
+,1-780,myosin head,1414,L,M,1,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,,,HCM,,,
+,1-780,myosin head,1420,R,Q,1,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,,,HCM,,,
+,1-780,myosin head,1420,R,W,1,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,,,HCM,,,
+,1-780,myosin head,1426,E,K,1,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,,,DCM,,,
+,1-780,myosin head,1434,R,C,1,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,,,HCM,,,
+,1-780,myosin head,1454,A,T,1,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,,,HCM,,,
+,1-780,myosin head,1459,K,N,1,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,,,HCM,,,
+,1-780,myosin head,1465,S,L,1,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,,,DCM,,,
+,1-780,myosin head,1475,R,C,1,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,,,HCM,,,
+,1-780,myosin head,1488,Y,C,1,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,,,LVNC,,,
+,1-780,myosin head,1491,S,C,1,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,,,HCM,,,
+,1-780,myosin head,1496,E,A,1,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,,,HCM,,,
+,1-780,myosin head,1500,R,P,1,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,,,Myopathy distal,,,
+,1-780,myosin head,1513,T,S,1,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,,,HCM,,,
+,1-780,myosin head,1536,E,K,1,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,,,DCM,,,
+,1-780,myosin head,1555,E,K,1,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,,,HCM,,,
+,1-780,myosin head,1573,E,K,1,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,,,Ebstein,,,
+,1-780,myosin head,1619,E,K,1,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,,,DCM,,,
+,1-780,myosin head,1634,R,C,1,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,,,DCM,,,
+,1-780,myosin head,1637,A,T,1,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,,,HCM,,,
+,1-780,myosin head,1660,A,E,1,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,,,DCM,,,
+,1-780,myosin head,1662,R,H,1,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,,,DCM,,,
+,1-780,myosin head,1663,A,P,1,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,,,Miopathy distal,,,
+,1-780,myosin head,1677,R,H,1,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,,,DCM,,,
+,1-780,myosin head,1691,V,M,1,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,,,HCM,,,
+,1-780,myosin head,1706,L,P,1,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,,,Miopathy distal,,,
+,1-780,myosin head,1752,E,V,1,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,,,HCM,,,
+,1-780,myosin head,1753,E,K,1,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,,,HCM,,,
+,1-780,myosin head,1766,A,T,1,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,,,LVNC,,,
+,1-780,myosin head,1768,E,K,1,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,,,HCM,,,
+,1-780,myosin head,1769,L,M,1,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,,,HCM,,,
+,1-780,myosin head,1776,S,G,1,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,,,HCM,,,
+,1-780,myosin head,1777,A,T,1,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,,,HCM,,,
+,1-780,myosin head,1792,D,G,1,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,,,DCM,,,
+,1-780,myosin head,1793,L,P,1,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,,,Myosin storage miopathy,,,
+,1-780,myosin head,1801,E,G,1,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,,,DCM,,,
+,1-780,myosin head,1808,G,A,1,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,,,DCM,,,
+,1-780,myosin head,1832,R,C,1,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,,,DCM,,,
+,1-780,myosin head,1836,S,L,1,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,,,HCM,,,
+,1-780,myosin head,1845,R,W,1,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,,,Myosin storage miopathy,,,
+,1-780,myosin head,1846,R,C,1,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,,,HCM,,,
+,1-780,myosin head,1854,T,M,1,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,,,HCM,,,
+,1-780,myosin head,1863,R,Q,1,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,,,DCM,,,
+,1-780,myosin head,1883,E,K,1,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,,,Myosin storage miopathy,,,
+,1-780,myosin head,1901,H,Q,1,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,,,DCM,,,
+,1-780,myosin head,1901,H,L,1,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,,,Hyaline body miopathy,,,
+,1-780,myosin head,1918,N,K,1,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,,,Ebstein,,,
+,1-780,myosin head,1925,R,G,1,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,,,LVNC,,,
+,1-780,myosin head,1929,T,M,1,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,,,HCM,,,
