@@ -1,6 +1,14 @@
-#
+#top: check jobs
 
 #extract mutation from excel
 python ExtractExcelMutations.py
 
-#
+#remove duplicates in PD and SNP
+sort -u file > newfile
+
+#add accession code to the front of each line
+# ^ is the start of a line
+sed 's/^/P12883 /' snp.mut
+
+#check there are no entries from both files
+awk 'NR==FNR{a[$0];next} ($0 in a)' file1 file2
