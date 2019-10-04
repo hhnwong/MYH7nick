@@ -6,4 +6,4 @@ Duplicated Data Removed:
 
 Axiom (SNP) set 73 mutations
 
-Axiom (SNP) set  data points
+Axiom (SNP) set 456 data points
