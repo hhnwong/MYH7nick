@@ -11,4 +11,5 @@ Duplicated Data Removed:
 Luis set (PD) 84 mutations
 DCM_HCM set 396 mutations
 
-Luis set (PD) 610 data points
+Luis set (PD) 594 data points
+DCM_HCM set 2385 data points (excluding heading)

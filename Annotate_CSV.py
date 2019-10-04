@@ -23,15 +23,11 @@
 import pandas as pd
 import numpy as np
 
-# Reading csv 
-df = pd.read_csv('', sep=",")
+#Reading csv 
+df = pd.read_csv('/Users/nicholas/Documents/GitHub/MYH7nick/pd/pd_out_031019/pd.csv', sep=",")
 
-#Define the data you want to add
-type=['pd']
-
-#Create new column name ‘type’
-df ['type'] = type
+df['type'] = 'pd'
 
 #Convert it back to csv file
-df.to_csv('.csv')
+df.to_csv('/Users/nicholas/Documents/GitHub/MYH7nick/pd/pd_out_031019/pd_annotated.csv')
 
