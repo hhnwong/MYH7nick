@@ -1,11 +1,11 @@
 export CLASSPATH="$WEKA/weka.jar"
 
-DATA=myh7.csv
-INPUTS=inputs.dat
+DATA=~/Documents/MYH7nick/train_myh7/myh7.csv
+INPUTS=~/Documents/MYH7nick/train_myh7/inputs.dat
 #CLASSIFIER=weka.classifiers.functions.MultilayerPerceptron
 #CLASSIFIER="weka.classifiers.trees.RandomForest -I 20 -K 5"
 CLASSIFIER="weka.classifiers.trees.RandomForest"
-LIMIT=977
+LIMIT=1382
 
 for i in 1 2 3 4 5 6 7 8 9 10
 do
