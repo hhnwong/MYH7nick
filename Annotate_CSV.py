@@ -24,14 +24,14 @@ import pandas as pd
 import numpy as np
 
 # Reading csv 
-df = pd.read_csv('', sep=",")
+df = pd.read_csv('~/Documents/MYH7nick/snp/snp_out_031019/snp.csv', sep=",")
 
 #Define the data you want to add
-type=['pd']
+type=['snp']
 
 #Create new column name ‘type’
 df ['type'] = type
 
 #Convert it back to csv file
-df.to_csv('.csv')
+df.to_csv('snp_annotated.csv')
 
