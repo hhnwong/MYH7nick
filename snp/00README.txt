@@ -4,6 +4,6 @@ Raw Data Extracted:
 Duplicated Data Removed:
 *_removed.mut
 
-Axiom (SNP) set 224 mutations
+Axiom (SNP) set 73 mutations
 
-Axiom (SNP) set 1382 data points
+Axiom (SNP) set  data points
