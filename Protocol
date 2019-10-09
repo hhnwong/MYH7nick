@@ -13,7 +13,7 @@ sed 's/^/P12883 /' snp.mut
 #check there are no entries from both files
 awk 'NR==FNR{a[$0];next} ($0 in a)' file1 file2
 
-
+weka used: 3-8-3
 ##################################################
 HCM/DCM set  with header
 
@@ -23,13 +23,28 @@ SNP without header
 ###################################################
 
 02/10/19
-extracted mutations from all datasets (Luis, DCM_HCM, Axiom)
+extracted mutations from all datasets (Luis, DCM_HCM, Axiom) in *.mut 
+duplicates removed in *_removed.mut
 
 03/10/19
-ran SAAP pipeline for all datasets
-converted JSON output files into csv
-concatenated all csv into one for each set
+ran SAAP pipeline for all datasets output: ~/Documents/MYH7nick/*/*_out_date/JSON
+converted JSON output files into csv output: ~/Documents/MYH7nick/*/*_out_date/CSV
+concatenated all csv into one for each set *final.csv
 
 04/10/19
 concatenated three csv files from each set into one
 snp_out_031019 wrong data, did not remove common mutations from DCM_HCM set
+re-concatenated the data after modification to *final.csv
+trained models (train_new) lower MCC than expected (-I (tree) 10 20 50 100 200 300 400) output: ~/Documents/MYH7nick/train_myh7/output/041019
+
+07/10/19
+corrected input csv in model training (removed duplicates in PD set from SAAP analysis)
+new models (-I (tree) 10 20 50 100 200 300 400) output: ~/Documents/MYH7nick/train_myh7/output/071019_L456_K0_I400 with corrected input data
+new models (-I (tree) 50 100 500 1000, -K 20) output: ~/Documents/MYH7nick/train_myh7/output/071019_L456_K20_I1000
+new models with lower limit (300) to check if some 'SNPs' are actually SNP (-I (tree) 10 20 50 100 200 300 400) output: ~/Documents/MYH7nick/train_myh7/output/071019_L300_K0_I400
+	compare with 071019_L456_K0_I400
+
+09/10/19
+new models (-I (tree) 50 100 500 1000, -K 0/10/15) output: ~/Documents/MYH7nick/train_myh7/output/091019_L456_K(0/10/15)_I1000
+	benchmark features number, compare with 071019_L456_K20_I1000
+	redo K0/10 I1000 training, no output in some models
