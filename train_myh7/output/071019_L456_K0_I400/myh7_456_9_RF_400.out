@@ -1,0 +1,70 @@
+
+Options: -I 400 
+
+=== Classifier model (full training set) ===
+
+RandomForest
+
+Bagging with 400 iterations and base learner
+
+weka.classifiers.trees.RandomTree -K 0 -M 1.0 -V 0.001 -S 1 -do-not-check-capabilities
+
+Time taken to build model: 4.32 seconds
+
+Time taken to test model on training data: 0.31 seconds
+
+=== Error on training data ===
+
+Correctly Classified Instances         904               99.1228 %
+Incorrectly Classified Instances         8                0.8772 %
+Kappa statistic                          0.9825
+Mean absolute error                      0.1562
+Root mean squared error                  0.1708
+Relative absolute error                 31.2403 %
+Root relative squared error             34.1593 %
+Total Number of Instances              912     
+
+
+=== Detailed Accuracy By Class ===
+
+                 TP Rate  FP Rate  Precision  Recall   F-Measure  MCC      ROC Area  PRC Area  Class
+                 0.987    0.004    0.996      0.987    0.991      0.982    1.000     1.000     PD
+                 0.996    0.013    0.987      0.996    0.991      0.982    1.000     1.000     SNP
+Weighted Avg.    0.991    0.009    0.991      0.991    0.991      0.982    1.000     1.000     
+
+
+=== Confusion Matrix ===
+
+   a   b   <-- classified as
+ 450   6 |   a = PD
+   2 454 |   b = SNP
+
+Time taken to perform cross-validation: 29.9 seconds
+
+
+=== Stratified cross-validation ===
+
+Correctly Classified Instances         684               75      %
+Incorrectly Classified Instances       228               25      %
+Kappa statistic                          0.5   
+Mean absolute error                      0.4085
+Root mean squared error                  0.4332
+Relative absolute error                 81.6921 %
+Root relative squared error             86.6443 %
+Total Number of Instances              912     
+
+
+=== Detailed Accuracy By Class ===
+
+                 TP Rate  FP Rate  Precision  Recall   F-Measure  MCC      ROC Area  PRC Area  Class
+                 0.662    0.162    0.803      0.662    0.726      0.508    0.822     0.816     PD
+                 0.838    0.338    0.713      0.838    0.770      0.508    0.822     0.790     SNP
+Weighted Avg.    0.750    0.250    0.758      0.750    0.748      0.508    0.822     0.803     
+
+
+=== Confusion Matrix ===
+
+   a   b   <-- classified as
+ 302 154 |   a = PD
+  74 382 |   b = SNP
+
