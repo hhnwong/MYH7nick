@@ -1,0 +1,106 @@
+
+Options: -I 1000 -attribute-importance 
+
+=== Classifier model (full training set) ===
+
+RandomForest
+
+Bagging with 1000 iterations and base learner
+
+weka.classifiers.trees.RandomTree -K 0 -M 1.0 -V 0.001 -S 1 -do-not-check-capabilities
+
+Attribute importance based on average impurity decrease (and number of nodes using that attribute)
+
+      0.81 (  6440)  Relaccess
+      0.77 (  3454)  SPhobic
+      0.69 (  2985)  CPhim
+      0.54 (  1254)  BCharge
+      0.52 (  1877)  Proline
+      0.44 (  1849)  Interface
+      0.41 (   399)  Voids
+      0.38 ( 16876)  Clash
+      0.25 ( 12487)  Impact
+      0.24 (   532)  NLargest9
+      0.22 (  1097)  NLargest3
+      0.21 (  4876)  HBonds
+      0.21 (   464)  NLargest6
+      0.2  (   937)  NLargest4
+      0.19 (   657)  NLargest5
+      0.19 (  2745)  MLargest9
+      0.19 (  1417)  NLargest2
+      0.15 (  2019)  NLargest1
+      0.15 (  1512)  NLargest10
+      0.14 (  4726)  MLargest6
+      0.14 (  1227)  Glycine
+      0.13 (  5755)  MLargest5
+      0.13 (  8582)  MLargest3
+      0.13 (  3006)  MLargest8
+      0.13 (  6855)  MLargest4
+      0.12 (  3883)  MLargest7
+      0.12 (  1340)  Binding
+      0.12 ( 10225)  MLargest2
+      0.11 ( 11802)  MLargest10
+      0.1  ( 13745)  MLargest1
+      0    (     0)  CisPro
+      0    (     0)  SSGeom
+
+
+Time taken to build model: 22.39 seconds
+
+Time taken to test model on training data: 0.89 seconds
+
+=== Error on training data ===
+
+Correctly Classified Instances         908               99.5614 %
+Incorrectly Classified Instances         4                0.4386 %
+Kappa statistic                          0.9912
+Mean absolute error                      0.1499
+Root mean squared error                  0.1615
+Relative absolute error                 29.974  %
+Root relative squared error             32.3029 %
+Total Number of Instances              912     
+
+
+=== Detailed Accuracy By Class ===
+
+                 TP Rate  FP Rate  Precision  Recall   F-Measure  MCC      ROC Area  PRC Area  Class
+                 0.991    0.000    1.000      0.991    0.996      0.991    1.000     1.000     PD
+                 1.000    0.009    0.991      1.000    0.996      0.991    1.000     1.000     SNP
+Weighted Avg.    0.996    0.004    0.996      0.996    0.996      0.991    1.000     1.000     
+
+
+=== Confusion Matrix ===
+
+   a   b   <-- classified as
+ 452   4 |   a = PD
+   0 456 |   b = SNP
+
+Time taken to perform cross-validation: 80.15 seconds
+
+
+=== Stratified cross-validation ===
+
+Correctly Classified Instances         687               75.3289 %
+Incorrectly Classified Instances       225               24.6711 %
+Kappa statistic                          0.5066
+Mean absolute error                      0.4036
+Root mean squared error                  0.4263
+Relative absolute error                 80.7205 %
+Root relative squared error             85.2542 %
+Total Number of Instances              912     
+
+
+=== Detailed Accuracy By Class ===
+
+                 TP Rate  FP Rate  Precision  Recall   F-Measure  MCC      ROC Area  PRC Area  Class
+                 0.656    0.149    0.815      0.656    0.727      0.517    0.846     0.853     PD
+                 0.851    0.344    0.712      0.851    0.775      0.517    0.846     0.829     SNP
+Weighted Avg.    0.753    0.247    0.763      0.753    0.751      0.517    0.846     0.841     
+
+
+=== Confusion Matrix ===
+
+   a   b   <-- classified as
+ 299 157 |   a = PD
+  68 388 |   b = SNP
+

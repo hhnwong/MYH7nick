@@ -1,0 +1,191 @@
+Reading data...done
+Normalizing data...done
+Limiting dataset size...done
+Writing ARFF file...done
+Exception in thread "main" java.lang.OutOfMemoryError: GC overhead limit exceeded
+	at weka.classifiers.trees.RandomTree$Tree.buildTree(RandomTree.java:1530)
+	at weka.classifiers.trees.RandomTree.buildClassifier(RandomTree.java:801)
+	at weka.classifiers.ParallelIteratedSingleClassifierEnhancer.buildClassifiers(ParallelIteratedSingleClassifierEnhancer.java:229)
+	at weka.classifiers.meta.Bagging.buildClassifier(Bagging.java:724)
+	at weka.classifiers.evaluation.Evaluation.crossValidateModel(Evaluation.java:858)
+	at weka.classifiers.evaluation.Evaluation.crossValidateModel(Evaluation.java:812)
+	at weka.classifiers.evaluation.Evaluation.evaluateModel(Evaluation.java:1927)
+	at weka.classifiers.Evaluation.evaluateModel(Evaluation.java:668)
+	at weka.classifiers.AbstractClassifier.runClassifier(AbstractClassifier.java:141)
+	at weka.classifiers.trees.RandomForest.main(RandomForest.java:863)
+Reading data...done
+Normalizing data...done
+Limiting dataset size...done
+Writing ARFF file...done
+Exception in thread "main" java.lang.OutOfMemoryError: GC overhead limit exceeded
+	at weka.core.DenseInstance.copy(DenseInstance.java:145)
+	at weka.core.Instances.add(Instances.java:322)
+	at weka.classifiers.trees.RandomTree$Tree.splitData(RandomTree.java:1608)
+	at weka.classifiers.trees.RandomTree$Tree.buildTree(RandomTree.java:1525)
+	at weka.classifiers.trees.RandomTree$Tree.buildTree(RandomTree.java:1531)
+	at weka.classifiers.trees.RandomTree$Tree.buildTree(RandomTree.java:1531)
+	at weka.classifiers.trees.RandomTree.buildClassifier(RandomTree.java:801)
+	at weka.classifiers.ParallelIteratedSingleClassifierEnhancer.buildClassifiers(ParallelIteratedSingleClassifierEnhancer.java:229)
+	at weka.classifiers.meta.Bagging.buildClassifier(Bagging.java:724)
+	at weka.classifiers.evaluation.Evaluation.crossValidateModel(Evaluation.java:858)
+	at weka.classifiers.evaluation.Evaluation.crossValidateModel(Evaluation.java:812)
+	at weka.classifiers.evaluation.Evaluation.evaluateModel(Evaluation.java:1927)
+	at weka.classifiers.Evaluation.evaluateModel(Evaluation.java:668)
+	at weka.classifiers.AbstractClassifier.runClassifier(AbstractClassifier.java:141)
+	at weka.classifiers.trees.RandomForest.main(RandomForest.java:863)
+Reading data...done
+Normalizing data...done
+Limiting dataset size...done
+Writing ARFF file...done
+Exception in thread "main" java.lang.OutOfMemoryError: Java heap space
+	at java.util.ArrayList.<init>(ArrayList.java:152)
+	at weka.core.Instances.initialize(Instances.java:215)
+	at weka.core.Instances.<init>(Instances.java:194)
+	at weka.classifiers.trees.RandomTree$Tree.splitData(RandomTree.java:1591)
+	at weka.classifiers.trees.RandomTree$Tree.buildTree(RandomTree.java:1525)
+	at weka.classifiers.trees.RandomTree$Tree.buildTree(RandomTree.java:1531)
+	at weka.classifiers.trees.RandomTree.buildClassifier(RandomTree.java:801)
+	at weka.classifiers.ParallelIteratedSingleClassifierEnhancer.buildClassifiers(ParallelIteratedSingleClassifierEnhancer.java:229)
+	at weka.classifiers.meta.Bagging.buildClassifier(Bagging.java:724)
+	at weka.classifiers.evaluation.Evaluation.crossValidateModel(Evaluation.java:858)
+	at weka.classifiers.evaluation.Evaluation.crossValidateModel(Evaluation.java:812)
+	at weka.classifiers.evaluation.Evaluation.evaluateModel(Evaluation.java:1927)
+	at weka.classifiers.Evaluation.evaluateModel(Evaluation.java:668)
+	at weka.classifiers.AbstractClassifier.runClassifier(AbstractClassifier.java:141)
+	at weka.classifiers.trees.RandomForest.main(RandomForest.java:863)
+Reading data...done
+Normalizing data...done
+Limiting dataset size...done
+Writing ARFF file...done
+Exception in thread "main" java.lang.OutOfMemoryError: Java heap space
+	at java.util.ArrayList.<init>(ArrayList.java:152)
+	at weka.core.Instances.initialize(Instances.java:215)
+	at weka.core.Instances.<init>(Instances.java:194)
+	at weka.classifiers.trees.RandomTree$Tree.splitData(RandomTree.java:1591)
+	at weka.classifiers.trees.RandomTree$Tree.buildTree(RandomTree.java:1525)
+	at weka.classifiers.trees.RandomTree.buildClassifier(RandomTree.java:801)
+	at weka.classifiers.ParallelIteratedSingleClassifierEnhancer.buildClassifiers(ParallelIteratedSingleClassifierEnhancer.java:229)
+	at weka.classifiers.meta.Bagging.buildClassifier(Bagging.java:724)
+	at weka.classifiers.evaluation.Evaluation.crossValidateModel(Evaluation.java:858)
+	at weka.classifiers.evaluation.Evaluation.crossValidateModel(Evaluation.java:812)
+	at weka.classifiers.evaluation.Evaluation.evaluateModel(Evaluation.java:1927)
+	at weka.classifiers.Evaluation.evaluateModel(Evaluation.java:668)
+	at weka.classifiers.AbstractClassifier.runClassifier(AbstractClassifier.java:141)
+	at weka.classifiers.trees.RandomForest.main(RandomForest.java:863)
+Reading data...done
+Normalizing data...done
+Limiting dataset size...done
+Writing ARFF file...done
+Exception in thread "main" java.lang.OutOfMemoryError: Java heap space
+	at java.util.ArrayList.<init>(ArrayList.java:152)
+	at weka.core.Instances.initialize(Instances.java:215)
+	at weka.core.Instances.<init>(Instances.java:194)
+	at weka.classifiers.trees.RandomTree$Tree.splitData(RandomTree.java:1591)
+	at weka.classifiers.trees.RandomTree$Tree.buildTree(RandomTree.java:1525)
+	at weka.classifiers.trees.RandomTree.buildClassifier(RandomTree.java:801)
+	at weka.classifiers.ParallelIteratedSingleClassifierEnhancer.buildClassifiers(ParallelIteratedSingleClassifierEnhancer.java:229)
+	at weka.classifiers.meta.Bagging.buildClassifier(Bagging.java:724)
+	at weka.classifiers.evaluation.Evaluation.crossValidateModel(Evaluation.java:858)
+	at weka.classifiers.evaluation.Evaluation.crossValidateModel(Evaluation.java:812)
+	at weka.classifiers.evaluation.Evaluation.evaluateModel(Evaluation.java:1927)
+	at weka.classifiers.Evaluation.evaluateModel(Evaluation.java:668)
+	at weka.classifiers.AbstractClassifier.runClassifier(AbstractClassifier.java:141)
+	at weka.classifiers.trees.RandomForest.main(RandomForest.java:863)
+Reading data...done
+Normalizing data...done
+Limiting dataset size...done
+Writing ARFF file...done
+Exception in thread "main" java.lang.OutOfMemoryError: Java heap space
+	at java.util.ArrayList.<init>(ArrayList.java:152)
+	at weka.core.Instances.initialize(Instances.java:215)
+	at weka.core.Instances.<init>(Instances.java:194)
+	at weka.classifiers.trees.RandomTree$Tree.splitData(RandomTree.java:1591)
+	at weka.classifiers.trees.RandomTree$Tree.buildTree(RandomTree.java:1525)
+	at weka.classifiers.trees.RandomTree$Tree.buildTree(RandomTree.java:1531)
+	at weka.classifiers.trees.RandomTree$Tree.buildTree(RandomTree.java:1531)
+	at weka.classifiers.trees.RandomTree.buildClassifier(RandomTree.java:801)
+	at weka.classifiers.ParallelIteratedSingleClassifierEnhancer.buildClassifiers(ParallelIteratedSingleClassifierEnhancer.java:229)
+	at weka.classifiers.meta.Bagging.buildClassifier(Bagging.java:724)
+	at weka.classifiers.evaluation.Evaluation.crossValidateModel(Evaluation.java:858)
+	at weka.classifiers.evaluation.Evaluation.crossValidateModel(Evaluation.java:812)
+	at weka.classifiers.evaluation.Evaluation.evaluateModel(Evaluation.java:1927)
+	at weka.classifiers.Evaluation.evaluateModel(Evaluation.java:668)
+	at weka.classifiers.AbstractClassifier.runClassifier(AbstractClassifier.java:141)
+	at weka.classifiers.trees.RandomForest.main(RandomForest.java:863)
+Reading data...done
+Normalizing data...done
+Limiting dataset size...done
+Writing ARFF file...done
+Exception in thread "main" java.lang.OutOfMemoryError: Java heap space
+	at java.util.ArrayList.<init>(ArrayList.java:152)
+	at weka.core.Instances.initialize(Instances.java:215)
+	at weka.core.Instances.<init>(Instances.java:194)
+	at weka.classifiers.trees.RandomTree$Tree.splitData(RandomTree.java:1591)
+	at weka.classifiers.trees.RandomTree$Tree.buildTree(RandomTree.java:1525)
+	at weka.classifiers.trees.RandomTree.buildClassifier(RandomTree.java:801)
+	at weka.classifiers.ParallelIteratedSingleClassifierEnhancer.buildClassifiers(ParallelIteratedSingleClassifierEnhancer.java:229)
+	at weka.classifiers.meta.Bagging.buildClassifier(Bagging.java:724)
+	at weka.classifiers.evaluation.Evaluation.crossValidateModel(Evaluation.java:858)
+	at weka.classifiers.evaluation.Evaluation.crossValidateModel(Evaluation.java:812)
+	at weka.classifiers.evaluation.Evaluation.evaluateModel(Evaluation.java:1927)
+	at weka.classifiers.Evaluation.evaluateModel(Evaluation.java:668)
+	at weka.classifiers.AbstractClassifier.runClassifier(AbstractClassifier.java:141)
+	at weka.classifiers.trees.RandomForest.main(RandomForest.java:863)
+Reading data...done
+Normalizing data...done
+Limiting dataset size...done
+Writing ARFF file...done
+Exception in thread "main" java.lang.OutOfMemoryError: Java heap space
+	at java.util.ArrayList.<init>(ArrayList.java:152)
+	at weka.core.Instances.initialize(Instances.java:215)
+	at weka.core.Instances.<init>(Instances.java:194)
+	at weka.classifiers.trees.RandomTree$Tree.splitData(RandomTree.java:1591)
+	at weka.classifiers.trees.RandomTree$Tree.buildTree(RandomTree.java:1525)
+	at weka.classifiers.trees.RandomTree.buildClassifier(RandomTree.java:801)
+	at weka.classifiers.ParallelIteratedSingleClassifierEnhancer.buildClassifiers(ParallelIteratedSingleClassifierEnhancer.java:229)
+	at weka.classifiers.meta.Bagging.buildClassifier(Bagging.java:724)
+	at weka.classifiers.evaluation.Evaluation.crossValidateModel(Evaluation.java:858)
+	at weka.classifiers.evaluation.Evaluation.crossValidateModel(Evaluation.java:812)
+	at weka.classifiers.evaluation.Evaluation.evaluateModel(Evaluation.java:1927)
+	at weka.classifiers.Evaluation.evaluateModel(Evaluation.java:668)
+	at weka.classifiers.AbstractClassifier.runClassifier(AbstractClassifier.java:141)
+	at weka.classifiers.trees.RandomForest.main(RandomForest.java:863)
+Reading data...done
+Normalizing data...done
+Limiting dataset size...done
+Writing ARFF file...done
+Exception in thread "main" java.lang.OutOfMemoryError: Java heap space
+	at java.util.ArrayList.<init>(ArrayList.java:152)
+	at weka.core.Instances.initialize(Instances.java:215)
+	at weka.core.Instances.<init>(Instances.java:194)
+	at weka.classifiers.trees.RandomTree$Tree.splitData(RandomTree.java:1591)
+	at weka.classifiers.trees.RandomTree$Tree.buildTree(RandomTree.java:1525)
+	at weka.classifiers.trees.RandomTree.buildClassifier(RandomTree.java:801)
+	at weka.classifiers.ParallelIteratedSingleClassifierEnhancer.buildClassifiers(ParallelIteratedSingleClassifierEnhancer.java:229)
+	at weka.classifiers.meta.Bagging.buildClassifier(Bagging.java:724)
+	at weka.classifiers.evaluation.Evaluation.crossValidateModel(Evaluation.java:858)
+	at weka.classifiers.evaluation.Evaluation.crossValidateModel(Evaluation.java:812)
+	at weka.classifiers.evaluation.Evaluation.evaluateModel(Evaluation.java:1927)
+	at weka.classifiers.Evaluation.evaluateModel(Evaluation.java:668)
+	at weka.classifiers.AbstractClassifier.runClassifier(AbstractClassifier.java:141)
+	at weka.classifiers.trees.RandomForest.main(RandomForest.java:863)
+Reading data...done
+Normalizing data...done
+Limiting dataset size...done
+Writing ARFF file...done
+Exception in thread "main" java.lang.OutOfMemoryError: Java heap space
+	at java.util.ArrayList.<init>(ArrayList.java:152)
+	at weka.core.Instances.initialize(Instances.java:215)
+	at weka.core.Instances.<init>(Instances.java:194)
+	at weka.classifiers.trees.RandomTree$Tree.splitData(RandomTree.java:1591)
+	at weka.classifiers.trees.RandomTree$Tree.buildTree(RandomTree.java:1525)
+	at weka.classifiers.trees.RandomTree$Tree.buildTree(RandomTree.java:1531)
+	at weka.classifiers.trees.RandomTree.buildClassifier(RandomTree.java:801)
+	at weka.classifiers.ParallelIteratedSingleClassifierEnhancer.buildClassifiers(ParallelIteratedSingleClassifierEnhancer.java:229)
+	at weka.classifiers.meta.Bagging.buildClassifier(Bagging.java:724)
+	at weka.classifiers.evaluation.Evaluation.crossValidateModel(Evaluation.java:858)
+	at weka.classifiers.evaluation.Evaluation.crossValidateModel(Evaluation.java:812)
+	at weka.classifiers.evaluation.Evaluation.evaluateModel(Evaluation.java:1927)
+	at weka.classifiers.Evaluation.evaluateModel(Evaluation.java:668)
+	at weka.classifiers.AbstractClassifier.runClassifier(AbstractClassifier.java:141)
+	at weka.classifiers.trees.RandomForest.main(RandomForest.java:863)
