@@ -61,9 +61,16 @@ new models with features removed (6-10 MLargest, NLargest, CisPro, SSGeom) Set 2
 new models with features removed (2-10 MLargest, NLargest, CisPro, SSGeom) Set 3
 	result: 1 > 3 > 2 in terms of performance (MCC)
 	future direction:
-			clustering mutations
-			use pretrained model
-			try support vector machines, PCA for features selection
-			try oversampling
-			kahonen map python
-			interpolation learning
+			-look at using the delta of the MLargestVoidX NLargestVoidX data rather than the numbers themselves
+			-use pretrained predictor for our json files
+				write some codes to extract the prediction and compare to see if it is actually PD or SNP, calculate confusion matrix
+				use ~martin/scripts/mcc.pl -tp=xxx -fp=xxx -tn=xxx -fn=xxx to calculate MCC
+			-clustering mutations, Plot the value from the left hand side of the dendogram against a linear x-axis to look for a sudden jump in values as an indicator of 			     the number of clusters and where an outlying set might be
+			-have a look at using Kohonen self-organizing maps and PCA as ways of doing the clustering of the SNPs and looking for outliers
+
+			-try support vector machines, PCA for features selection
+			-try oversampling
+
+			-Start to look at adding the other physiological data to the CSV files in order to start looking at sudden cardiac event prediction
+			-Look online at methods for dealing with missing data and interpolated learning
+				 Talk to Gil as one way of doing this is with auto-encoders
