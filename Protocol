@@ -43,8 +43,27 @@ new models (-I (tree) 10 20 50 100 200 300 400) output: ~/Documents/MYH7nick/tra
 new models (-I (tree) 50 100 500 1000, -K 20) output: ~/Documents/MYH7nick/train_myh7/output/071019_L456_K20_I1000
 new models with lower limit (300) to check if some 'SNPs' are actually SNP (-I (tree) 10 20 50 100 200 300 400) output: ~/Documents/MYH7nick/train_myh7/output/071019_L300_K0_I400
 	compare with 071019_L456_K0_I400
-
+	result: all models performing worse than using L456 except for one set, potential that some SNPs are not actually SNP
+        future direction: explore number of features
 09/10/19
 new models (-I (tree) 50 100 500 1000, -K 0/10/15) output: ~/Documents/MYH7nick/train_myh7/output/091019_L456_K(0/10/15)_I1000
 	benchmark features number, compare with 071019_L456_K20_I1000
 	redo K0/10 I1000 training, no output in some models
+	result: using -K 0/10 seems to obtain better results (-K 0 selected 32 features)
+	future direction: rank features, engineer features
+
+11/10/19
+new models with built in features ranking (based on average impurity decrease, embedded method)
+
+14/10/19
+new models with features removed (all MLargest, NLargest, CisPro, SSGeom) Set 1
+new models with features removed (6-10 MLargest, NLargest, CisPro, SSGeom) Set 2
+new models with features removed (2-10 MLargest, NLargest, CisPro, SSGeom) Set 3
+	result: 1 > 3 > 2 in terms of performance (MCC)
+	future direction:
+			clustering mutations
+			use pretrained model
+			try support vector machines, PCA for features selection
+			try oversampling
+			kahonen map python
+			interpolation learning
