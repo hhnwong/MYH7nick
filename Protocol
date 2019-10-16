@@ -74,3 +74,16 @@ new models with features removed (2-10 MLargest, NLargest, CisPro, SSGeom) Set 3
 			-Start to look at adding the other physiological data to the CSV files in order to start looking at sudden cardiac event prediction
 			-Look online at methods for dealing with missing data and interpolated learning
 				 Talk to Gil as one way of doing this is with auto-encoders
+
+15/10/19
+new models with engineered features (delta)
+new models with features removed (Set1), overfitting (L912) (NOT DONE)
+	result: delta set worked slightly better
+		over-fitting not working, no models output
+
+16/10/19
+new models (delta) with -skip
+	result: better result
+new models (delta) with -skip and over-fitting
+	result: MCC 0.9, might be misleading as it possibly takes the same data during 			training and testing (over-sampling)
+	future direction: manual cross-validation outside weka
