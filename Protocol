@@ -87,3 +87,7 @@ new models (delta) with -skip
 new models (delta) with -skip and over-fitting
 	result: MCC 0.9, might be misleading as it possibly takes the same data during 			training and testing (over-sampling)
 	future direction: manual cross-validation outside weka
+
+17/10/19
+writing codes for independent cross-validation outside weka
+	1. split sap and pd set to 10 and concatenate 8/9 into train*.csv and 1/9 into 		test.csv

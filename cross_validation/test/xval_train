@@ -1,0 +1,30 @@
+export WEKA=$HOME/weka-3-8-3
+export CLASSPATH="$WEKA/weka.jar"
+export PATH="$PATH:/acrm/usr/local/bin:$HOME/bin"
+BASEPATH=$(pwd)
+
+INPUTS=${BASEPATH}/inputs.dat
+#CLASSIFIER=weka.classifiers.functions.MultilayerPerceptron
+#CLASSIFIER="weka.classifiers.trees.RandomForest -I 1000 -K 0"
+CLASSIFIER="weka.classifiers.trees.RandomForest"
+LIMIT1=
+LIMIT2=
+
+sh ./split_all.sh
+
+for i in 1 2 3 4 5 6 7 8 9 10
+DATA1=${BASEPATH}/train{i}.csv
+DATA2=${BASEPATH}/test{i}.csv
+do
+   perl ./csv2arff.pl -v -norm -over -skip -limit=${LIMIT1} $INPUTS dataset $DATA1 > myh7_${LIMIT1}_${i}_train.arff
+   perl ./csv2arff.pl -v -norm -over -skip -limit=${LIMIT2} $INPUTS dataset $DATA2 > myh7_${LIMIT2}_${i}_test.arff
+
+   for NTREE in 500 1000
+   do
+      java $CLASSIFIER -I $NTREE -attribute-importance -t myh7_${LIMIT1}_${i}_train.arff -d myh7_${LIMIT1}_${i}_RF_${NTREE}.model
+      java weka.classifiers.trees.RandomForest -i -T myh7_${LIMIT2}_${i}_test.arff -l myh7_${LIMIT2}_${i}_RF_${NTREE}.model >myh7_${LIMIT2}_${i}_RF_${NTREE}.out
+   done
+done
+
+
+
