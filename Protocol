@@ -91,3 +91,41 @@ new models (delta) with -skip and over-fitting
 17/10/19
 writing codes for independent cross-validation outside weka
 	1. split sap and pd set to 10 and concatenate 8/9 into train*.csv and 1/9 into 		test.csv
+
+18/10/19
+independent cross-validation outside weka
+	trial 1: set limit for both training and testing
+	trial 2: only set limit for training, not testing
+	result: all fail
+
+20/10/19
+independent cross-validation outside weka
+	trail 3: repeat of trail 2
+	result: fail
+
+21/10/19
+independent cross-validation outside weka
+	identified issue, when combining pd and sip training file, csv doesn't have a line 	break at the end of the file
+	trial 4: only set limit for training, not testing (fail)
+	trial 5: set limit for both training and testing (fail)
+
+trial 1-5: training and testing in separate loop
+	trial 6: only set limit for training, not testing (fail)
+		 training and testing within the same loop
+	trial 7: only set limit for training, not testing
+		 don't use -l tag, training and testing in the same line
+
+29/10/19
+split PD and SNP into 10 sets
+	get list of mutations from pd.csv and snp.csv
+	split mutations into 10, pull out all entry with those mutation into that set
+	merge PD set 1 to SNP set 1
+
+work on predicting sudden cardiac death
+	clinical data, fill in missing data by averaging the rest first
+
+01/11/19
+list mutations that were mapped:
+awk -F: '{print $4,$3,$5}' snp_final.csv | sort -u >> mapped_snp.mut
+awk -F: '{print $4,$3,$5}' pd_all_final.csv | sort -u >> mapped_pd.mut
+

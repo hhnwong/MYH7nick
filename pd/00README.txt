@@ -16,6 +16,7 @@ DCM_HCM set 396 mutations
 Luis set (PD) 594 data points
 DCM_HCM set 2385 data points (excluding heading)
 
+total PD mutations mapped 336
 total PD data point 2979
 ##########################################################
 07/10/19
