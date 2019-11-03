@@ -1,0 +1,180 @@
+perl: warning: Setting locale failed.
+perl: warning: Please check that your locale settings:
+	LANGUAGE = (unset),
+	LC_ALL = (unset),
+	LC_CTYPE = "UTF-8",
+	LANG = "C"
+    are supported and installed on your system.
+perl: warning: Falling back to the standard locale ("C").
+Reading data...Row discarded as it contained the wrong number of fields:
+   9:P12883:961:L:R:4pa0:B:1012:R:crystal:2.25A:20.30%,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,47.624,0.612968941,10.74,0,1.62,-1,0,0,495.316,250.645,190.68,167.761,163.751,151.041,144.767,135.919,132.308,124.602,495.316,250.645,190.68,167.761,163.751,151.041,144.767,135.919,132.308,124.602,0,0,0,0,0,0,0,0,0,0,-3.77,-100,-100,0,PD1:P12883:254:A:E:4db1:A:254:E:crystal:2.60A:21.20%,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,70.228,0.574265835,20,0,0.87,1,0,0,391.098,338.983,330.793,312.863,227.105,204.39,200.459,167.905,153.97,138.447,391.098,338.983,330.793,312.863,227.105,204.39,200.459,167.905,153.97,138.447,-3.5,-100,-100,0,SNP
+Row discarded as it contained the wrong number of fields:
+   ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,2.296,0,0,0,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+done
+Normalizing data...done
+Limiting dataset size...done
+Oversampling dataset SNP...done
+Writing ARFF file...done
+Writing oversampled data to ARFF file...done
+perl: warning: Setting locale failed.
+perl: warning: Please check that your locale settings:
+	LANGUAGE = (unset),
+	LC_ALL = (unset),
+	LC_CTYPE = "UTF-8",
+	LANG = "C"
+    are supported and installed on your system.
+perl: warning: Falling back to the standard locale ("C").
+Reading data...Row discarded as it contained the wrong number of fields:
+   9:P12883:961:L:R:4pa0:B:1012:R:crystal:2.25A:20.30%,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,47.624,0.612968941,10.74,0,1.62,-1,0,0,495.316,250.645,190.68,167.761,163.751,151.041,144.767,135.919,132.308,124.602,495.316,250.645,190.68,167.761,163.751,151.041,144.767,135.919,132.308,124.602,0,0,0,0,0,0,0,0,0,0,-3.77,-100,-100,0,PD1:P12883:254:A:E:4db1:A:254:E:crystal:2.60A:21.20%,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,70.228,0.574265835,20,0,0.87,1,0,0,391.098,338.983,330.793,312.863,227.105,204.39,200.459,167.905,153.97,138.447,391.098,338.983,330.793,312.863,227.105,204.39,200.459,167.905,153.97,138.447,-3.5,-100,-100,0,SNP
+Row discarded as it contained the wrong number of fields:
+   ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,2.296,0,0,0,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+done
+Normalizing data...done
+Limiting dataset size...done
+Oversampling dataset SNP...done
+Writing ARFF file...done
+Writing oversampled data to ARFF file...done
+perl: warning: Setting locale failed.
+perl: warning: Please check that your locale settings:
+	LANGUAGE = (unset),
+	LC_ALL = (unset),
+	LC_CTYPE = "UTF-8",
+	LANG = "C"
+    are supported and installed on your system.
+perl: warning: Falling back to the standard locale ("C").
+Reading data...Row discarded as it contained the wrong number of fields:
+   9:P12883:961:L:R:4pa0:B:1012:R:crystal:2.25A:20.30%,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,47.624,0.612968941,10.74,0,1.62,-1,0,0,495.316,250.645,190.68,167.761,163.751,151.041,144.767,135.919,132.308,124.602,495.316,250.645,190.68,167.761,163.751,151.041,144.767,135.919,132.308,124.602,0,0,0,0,0,0,0,0,0,0,-3.77,-100,-100,0,PD1:P12883:254:A:E:4db1:A:254:E:crystal:2.60A:21.20%,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,70.228,0.574265835,20,0,0.87,1,0,0,391.098,338.983,330.793,312.863,227.105,204.39,200.459,167.905,153.97,138.447,391.098,338.983,330.793,312.863,227.105,204.39,200.459,167.905,153.97,138.447,-3.5,-100,-100,0,SNP
+Row discarded as it contained the wrong number of fields:
+   ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,2.296,0,0,0,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+done
+Normalizing data...done
+Limiting dataset size...done
+Oversampling dataset SNP...done
+Writing ARFF file...done
+Writing oversampled data to ARFF file...done
+perl: warning: Setting locale failed.
+perl: warning: Please check that your locale settings:
+	LANGUAGE = (unset),
+	LC_ALL = (unset),
+	LC_CTYPE = "UTF-8",
+	LANG = "C"
+    are supported and installed on your system.
+perl: warning: Falling back to the standard locale ("C").
+Reading data...Row discarded as it contained the wrong number of fields:
+   9:P12883:961:L:R:4pa0:B:1012:R:crystal:2.25A:20.30%,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,47.624,0.612968941,10.74,0,1.62,-1,0,0,495.316,250.645,190.68,167.761,163.751,151.041,144.767,135.919,132.308,124.602,495.316,250.645,190.68,167.761,163.751,151.041,144.767,135.919,132.308,124.602,0,0,0,0,0,0,0,0,0,0,-3.77,-100,-100,0,PD1:P12883:254:A:E:4db1:A:254:E:crystal:2.60A:21.20%,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,70.228,0.574265835,20,0,0.87,1,0,0,391.098,338.983,330.793,312.863,227.105,204.39,200.459,167.905,153.97,138.447,391.098,338.983,330.793,312.863,227.105,204.39,200.459,167.905,153.97,138.447,-3.5,-100,-100,0,SNP
+Row discarded as it contained the wrong number of fields:
+   ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,2.296,0,0,0,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+done
+Normalizing data...done
+Limiting dataset size...done
+Oversampling dataset SNP...done
+Writing ARFF file...done
+Writing oversampled data to ARFF file...done
+perl: warning: Setting locale failed.
+perl: warning: Please check that your locale settings:
+	LANGUAGE = (unset),
+	LC_ALL = (unset),
+	LC_CTYPE = "UTF-8",
+	LANG = "C"
+    are supported and installed on your system.
+perl: warning: Falling back to the standard locale ("C").
+Reading data...Row discarded as it contained the wrong number of fields:
+   9:P12883:961:L:R:4pa0:B:1012:R:crystal:2.25A:20.30%,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,47.624,0.612968941,10.74,0,1.62,-1,0,0,495.316,250.645,190.68,167.761,163.751,151.041,144.767,135.919,132.308,124.602,495.316,250.645,190.68,167.761,163.751,151.041,144.767,135.919,132.308,124.602,0,0,0,0,0,0,0,0,0,0,-3.77,-100,-100,0,PD1:P12883:254:A:E:4db1:A:254:E:crystal:2.60A:21.20%,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,70.228,0.574265835,20,0,0.87,1,0,0,391.098,338.983,330.793,312.863,227.105,204.39,200.459,167.905,153.97,138.447,391.098,338.983,330.793,312.863,227.105,204.39,200.459,167.905,153.97,138.447,-3.5,-100,-100,0,SNP
+Row discarded as it contained the wrong number of fields:
+   ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,2.296,0,0,0,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+done
+Normalizing data...done
+Limiting dataset size...done
+Oversampling dataset SNP...done
+Writing ARFF file...done
+Writing oversampled data to ARFF file...done
+perl: warning: Setting locale failed.
+perl: warning: Please check that your locale settings:
+	LANGUAGE = (unset),
+	LC_ALL = (unset),
+	LC_CTYPE = "UTF-8",
+	LANG = "C"
+    are supported and installed on your system.
+perl: warning: Falling back to the standard locale ("C").
+Reading data...Row discarded as it contained the wrong number of fields:
+   9:P12883:961:L:R:4pa0:B:1012:R:crystal:2.25A:20.30%,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,47.624,0.612968941,10.74,0,1.62,-1,0,0,495.316,250.645,190.68,167.761,163.751,151.041,144.767,135.919,132.308,124.602,495.316,250.645,190.68,167.761,163.751,151.041,144.767,135.919,132.308,124.602,0,0,0,0,0,0,0,0,0,0,-3.77,-100,-100,0,PD1:P12883:254:A:E:4db1:A:254:E:crystal:2.60A:21.20%,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,70.228,0.574265835,20,0,0.87,1,0,0,391.098,338.983,330.793,312.863,227.105,204.39,200.459,167.905,153.97,138.447,391.098,338.983,330.793,312.863,227.105,204.39,200.459,167.905,153.97,138.447,-3.5,-100,-100,0,SNP
+Row discarded as it contained the wrong number of fields:
+   ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,2.296,0,0,0,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+done
+Normalizing data...done
+Limiting dataset size...done
+Oversampling dataset SNP...done
+Writing ARFF file...done
+Writing oversampled data to ARFF file...done
+perl: warning: Setting locale failed.
+perl: warning: Please check that your locale settings:
+	LANGUAGE = (unset),
+	LC_ALL = (unset),
+	LC_CTYPE = "UTF-8",
+	LANG = "C"
+    are supported and installed on your system.
+perl: warning: Falling back to the standard locale ("C").
+Reading data...Row discarded as it contained the wrong number of fields:
+   9:P12883:961:L:R:4pa0:B:1012:R:crystal:2.25A:20.30%,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,47.624,0.612968941,10.74,0,1.62,-1,0,0,495.316,250.645,190.68,167.761,163.751,151.041,144.767,135.919,132.308,124.602,495.316,250.645,190.68,167.761,163.751,151.041,144.767,135.919,132.308,124.602,0,0,0,0,0,0,0,0,0,0,-3.77,-100,-100,0,PD1:P12883:254:A:E:4db1:A:254:E:crystal:2.60A:21.20%,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,70.228,0.574265835,20,0,0.87,1,0,0,391.098,338.983,330.793,312.863,227.105,204.39,200.459,167.905,153.97,138.447,391.098,338.983,330.793,312.863,227.105,204.39,200.459,167.905,153.97,138.447,-3.5,-100,-100,0,SNP
+Row discarded as it contained the wrong number of fields:
+   ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,2.296,0,0,0,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+done
+Normalizing data...done
+Limiting dataset size...done
+Oversampling dataset SNP...done
+Writing ARFF file...done
+Writing oversampled data to ARFF file...done
+perl: warning: Setting locale failed.
+perl: warning: Please check that your locale settings:
+	LANGUAGE = (unset),
+	LC_ALL = (unset),
+	LC_CTYPE = "UTF-8",
+	LANG = "C"
+    are supported and installed on your system.
+perl: warning: Falling back to the standard locale ("C").
+Reading data...Row discarded as it contained the wrong number of fields:
+   9:P12883:961:L:R:4pa0:B:1012:R:crystal:2.25A:20.30%,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,47.624,0.612968941,10.74,0,1.62,-1,0,0,495.316,250.645,190.68,167.761,163.751,151.041,144.767,135.919,132.308,124.602,495.316,250.645,190.68,167.761,163.751,151.041,144.767,135.919,132.308,124.602,0,0,0,0,0,0,0,0,0,0,-3.77,-100,-100,0,PD1:P12883:254:A:E:4db1:A:254:E:crystal:2.60A:21.20%,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,70.228,0.574265835,20,0,0.87,1,0,0,391.098,338.983,330.793,312.863,227.105,204.39,200.459,167.905,153.97,138.447,391.098,338.983,330.793,312.863,227.105,204.39,200.459,167.905,153.97,138.447,-3.5,-100,-100,0,SNP
+Row discarded as it contained the wrong number of fields:
+   ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,2.296,0,0,0,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+done
+Normalizing data...done
+Limiting dataset size...done
+Oversampling dataset SNP...done
+Writing ARFF file...done
+Writing oversampled data to ARFF file...done
+perl: warning: Setting locale failed.
+perl: warning: Please check that your locale settings:
+	LANGUAGE = (unset),
+	LC_ALL = (unset),
+	LC_CTYPE = "UTF-8",
+	LANG = "C"
+    are supported and installed on your system.
+perl: warning: Falling back to the standard locale ("C").
+Reading data...Row discarded as it contained the wrong number of fields:
+   9:P12883:961:L:R:4pa0:B:1012:R:crystal:2.25A:20.30%,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,47.624,0.612968941,10.74,0,1.62,-1,0,0,495.316,250.645,190.68,167.761,163.751,151.041,144.767,135.919,132.308,124.602,495.316,250.645,190.68,167.761,163.751,151.041,144.767,135.919,132.308,124.602,0,0,0,0,0,0,0,0,0,0,-3.77,-100,-100,0,PD1:P12883:254:A:E:4db1:A:254:E:crystal:2.60A:21.20%,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,70.228,0.574265835,20,0,0.87,1,0,0,391.098,338.983,330.793,312.863,227.105,204.39,200.459,167.905,153.97,138.447,391.098,338.983,330.793,312.863,227.105,204.39,200.459,167.905,153.97,138.447,-3.5,-100,-100,0,SNP
+Row discarded as it contained the wrong number of fields:
+   ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,2.296,0,0,0,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+done
+Normalizing data...done
+Limiting dataset size...done
+Oversampling dataset SNP...done
+Writing ARFF file...done
+Writing oversampled data to ARFF file...done
+perl: warning: Setting locale failed.
+perl: warning: Please check that your locale settings:
+	LANGUAGE = (unset),
+	LC_ALL = (unset),
+	LC_CTYPE = "UTF-8",
+	LANG = "C"
+    are supported and installed on your system.
+perl: warning: Falling back to the standard locale ("C").
+Reading data...Row discarded as it contained the wrong number of fields:
+   9:P12883:961:L:R:4pa0:B:1012:R:crystal:2.25A:20.30%,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,47.624,0.612968941,10.74,0,1.62,-1,0,0,495.316,250.645,190.68,167.761,163.751,151.041,144.767,135.919,132.308,124.602,495.316,250.645,190.68,167.761,163.751,151.041,144.767,135.919,132.308,124.602,0,0,0,0,0,0,0,0,0,0,-3.77,-100,-100,0,PD1:P12883:254:A:E:4db1:A:254:E:crystal:2.60A:21.20%,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,70.228,0.574265835,20,0,0.87,1,0,0,391.098,338.983,330.793,312.863,227.105,204.39,200.459,167.905,153.97,138.447,391.098,338.983,330.793,312.863,227.105,204.39,200.459,167.905,153.97,138.447,-3.5,-100,-100,0,SNP
+Row discarded as it contained the wrong number of fields:
+   ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,2.296,0,0,0,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+done
+Normalizing data...done
+Limiting dataset size...done
+Oversampling dataset SNP...done
+Writing ARFF file...done
+Writing oversampled data to ARFF file...done

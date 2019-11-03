@@ -1,0 +1,96 @@
+
+Options: -I 100 -attribute-importance 
+
+=== Classifier model (full training set) ===
+
+RandomForest
+
+Bagging with 100 iterations and base learner
+
+weka.classifiers.trees.RandomTree -K 0 -M 1.0 -V 0.001 -S 1 -do-not-check-capabilities
+
+Attribute importance based on average impurity decrease (and number of nodes using that attribute)
+
+      0.37 (  3548)  Clash
+      0.34 (  3168)  Relaccess
+      0.33 (  2183)  CPhim
+      0.29 (  2194)  Impact
+      0.27 (  1357)  SPhobic
+      0.26 (   452)  Proline
+      0.25 (  1318)  Interface
+      0.25 (  1306)  BCharge
+      0.23 (   903)  HBonds
+      0.18 (   379)  Delta1
+      0.17 (   362)  Binding
+      0.16 (   242)  Delta8
+      0.16 (   317)  Delta10
+      0.15 (   425)  Delta2
+      0.14 (   264)  Delta4
+      0.14 (   345)  Voids
+      0.14 (   203)  Delta6
+      0.14 (   154)  Delta7
+      0.14 (   239)  Delta9
+      0.14 (   262)  Delta3
+      0.12 (   152)  Delta5
+      0.11 (   183)  Glycine
+
+
+Time taken to build model: 1.94 seconds
+
+Time taken to test model on training data: 0.15 seconds
+
+=== Error on training data ===
+
+Correctly Classified Instances        1188               99.5809 %
+Incorrectly Classified Instances         5                0.4191 %
+Kappa statistic                          0.9916
+Mean absolute error                      0.0799
+Root mean squared error                  0.1166
+Relative absolute error                 15.9766 %
+Root relative squared error             23.3103 %
+Total Number of Instances             1193     
+
+
+=== Detailed Accuracy By Class ===
+
+                 TP Rate  FP Rate  Precision  Recall   F-Measure  MCC      ROC Area  PRC Area  Class
+                 0.993    0.002    0.998      0.993    0.996      0.992    1.000     1.000     PD
+                 0.998    0.007    0.993      0.998    0.996      0.992    1.000     1.000     SNP
+Weighted Avg.    0.996    0.004    0.996      0.996    0.996      0.992    1.000     1.000     
+
+
+=== Confusion Matrix ===
+
+   a   b   <-- classified as
+ 593   4 |   a = PD
+   1 595 |   b = SNP
+
+Time taken to perform cross-validation: 7.32 seconds
+
+
+=== Stratified cross-validation ===
+
+Correctly Classified Instances        1052               88.1811 %
+Incorrectly Classified Instances       141               11.8189 %
+Kappa statistic                          0.7636
+Mean absolute error                      0.2266
+Root mean squared error                  0.3048
+Relative absolute error                 45.3146 %
+Root relative squared error             60.9614 %
+Total Number of Instances             1193     
+
+
+=== Detailed Accuracy By Class ===
+
+                 TP Rate  FP Rate  Precision  Recall   F-Measure  MCC      ROC Area  PRC Area  Class
+                 0.868    0.104    0.893      0.868    0.880      0.764    0.953     0.952     PD
+                 0.896    0.132    0.871      0.896    0.883      0.764    0.953     0.952     SNP
+Weighted Avg.    0.882    0.118    0.882      0.882    0.882      0.764    0.953     0.952     
+
+
+=== Confusion Matrix ===
+
+   a   b   <-- classified as
+ 518  79 |   a = PD
+  62 534 |   b = SNP
+

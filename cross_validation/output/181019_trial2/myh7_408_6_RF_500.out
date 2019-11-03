@@ -1,0 +1,63 @@
+
+=== Classifier model (full training set) ===
+
+RandomForest
+
+Bagging with 500 iterations and base learner
+
+weka.classifiers.trees.RandomTree -K 0 -M 1.0 -V 0.001 -S 1 -do-not-check-capabilities
+
+Attribute importance based on average impurity decrease (and number of nodes using that attribute)
+
+      0.38 ( 13863)  Clash
+      0.35 ( 12025)  Relaccess
+      0.32 (  8395)  CPhim
+      0.28 (  9021)  Impact
+      0.27 (  5240)  BCharge
+      0.26 (  5647)  SPhobic
+      0.25 (  1592)  Proline
+      0.25 (  4842)  Interface
+      0.22 (  3165)  HBonds
+      0.18 (  1370)  Binding
+      0.16 (   949)  Delta9
+      0.16 (  1306)  Delta10
+      0.15 (   483)  Delta7
+      0.15 (  1625)  Delta1
+      0.15 (   773)  Delta6
+      0.15 (   843)  Delta8
+      0.15 (   732)  Delta4
+      0.15 (   953)  Delta3
+      0.15 (  1469)  Delta2
+      0.13 (   593)  Delta5
+      0.13 (   915)  Voids
+      0.12 (   874)  Glycine
+
+
+Time taken to build model: 0 seconds
+
+Time taken to test model on test data: 0.12 seconds
+
+=== Error on test data ===
+
+Correctly Classified Instances         242               82.3129 %
+Incorrectly Classified Instances        52               17.6871 %
+Kappa statistic                         -0.0375
+Mean absolute error                      0.3903
+Root mean squared error                  0.4152
+Total Number of Instances              294     
+
+
+=== Detailed Accuracy By Class ===
+
+                 TP Rate  FP Rate  Precision  Recall   F-Measure  MCC      ROC Area  PRC Area  Class
+                 0.976    1.000    0.840      0.976    0.903      -0.062   0.384     0.830     PD
+                 0.000    0.024    0.000      0.000    0.000      -0.062   0.384     0.128     SNP
+Weighted Avg.    0.823    0.847    0.709      0.823    0.762      -0.062   0.384     0.721     
+
+
+=== Confusion Matrix ===
+
+   a   b   <-- classified as
+ 242   6 |   a = PD
+  46   0 |   b = SNP
+

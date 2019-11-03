@@ -43,8 +43,49 @@ new models (-I (tree) 10 20 50 100 200 300 400) output: ~/Documents/MYH7nick/tra
 new models (-I (tree) 50 100 500 1000, -K 20) output: ~/Documents/MYH7nick/train_myh7/output/071019_L456_K20_I1000
 new models with lower limit (300) to check if some 'SNPs' are actually SNP (-I (tree) 10 20 50 100 200 300 400) output: ~/Documents/MYH7nick/train_myh7/output/071019_L300_K0_I400
 	compare with 071019_L456_K0_I400
-
+	result: all models performing worse than using L456 except for one set, potential that some SNPs are not actually SNP
+        future direction: explore number of features
 09/10/19
 new models (-I (tree) 50 100 500 1000, -K 0/10/15) output: ~/Documents/MYH7nick/train_myh7/output/091019_L456_K(0/10/15)_I1000
 	benchmark features number, compare with 071019_L456_K20_I1000
 	redo K0/10 I1000 training, no output in some models
+	result: using -K 0/10 seems to obtain better results (-K 0 selected 32 features)
+	future direction: rank features, engineer features
+
+11/10/19
+new models with built in features ranking (based on average impurity decrease, embedded method)
+
+14/10/19
+new models with features removed (all MLargest, NLargest, CisPro, SSGeom) Set 1
+new models with features removed (6-10 MLargest, NLargest, CisPro, SSGeom) Set 2
+new models with features removed (2-10 MLargest, NLargest, CisPro, SSGeom) Set 3
+	result: 1 > 3 > 2 in terms of performance (MCC)
+	future direction:
+			-look at using the delta of the MLargestVoidX NLargestVoidX data rather than the numbers themselves
+			-use pretrained predictor for our json files
+				write some codes to extract the prediction and compare to see if it is actually PD or SNP, calculate confusion matrix
+				use ~martin/scripts/mcc.pl -tp=xxx -fp=xxx -tn=xxx -fn=xxx to calculate MCC
+			-clustering mutations, Plot the value from the left hand side of the dendogram against a linear x-axis to look for a sudden jump in values as an indicator of 			     the number of clusters and where an outlying set might be
+			-have a look at using Kohonen self-organizing maps and PCA as ways of doing the clustering of the SNPs and looking for outliers
+
+			-try support vector machines, PCA for features selection
+			-try oversampling
+
+			-Start to look at adding the other physiological data to the CSV files in order to start looking at sudden cardiac event prediction
+			-Look online at methods for dealing with missing data and interpolated learning
+				 Talk to Gil as one way of doing this is with auto-encoders
+
+15/10/19
+new models with engineered features (delta)
+new models with features removed (Set1), overfitting (L912) (NOT DONE)
+	result: delta set worked slightly better
+		over-fitting not working, no models output
+
+16/10/19
+new models (delta) with -skip
+	result: better result
+new models (delta) with -skip and over-fitting
+	result: MCC 0.9, might be misleading as it possibly takes the same data during 			training and testing (over-sampling)
+	future direction: manual cross-validation outside weka
+
+

@@ -27,7 +27,7 @@ import numpy as np
 df = pandas.read_csv('MYH7_table_DCM_HCM.csv', sep=",")
 
 # Keep certain column
-df = df[['AA1', 'Position', 'AA2']]
+df = df[['AA1', 'Position', 'AA2', 'Phenotype']]
 
 # Write altered dataframe to file
 df.to_csv('DCM_HCM.mut', sep=' ', index=False)
